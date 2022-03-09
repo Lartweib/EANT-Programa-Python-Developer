@@ -1,0 +1,11 @@
+##fecha = "13/2/2019"
+##fecha = "2/13/2019"
+##fecha = "02/19" (mes/año)
+##fecha = "20191302"
+##fecha = "2019-13-02 14:23:33"
+##fecha = "13/Feb/2019"
+##fecha = "13/February/2019"
+##fecha = "13 days after February 2019"
+##fecha = "13/Febrero/2019"
+
+#fecha_output="13-02-2019"

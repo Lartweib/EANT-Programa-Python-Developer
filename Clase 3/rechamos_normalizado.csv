@@ -1,0 +1,3340 @@
+id_cliente;tx_zona;tx_reclamo;fc_reclamo
+AFG-001830;región D;Facturación;2017-01-01
+AFG-000966;región F;Falta Servicio;2017-01-01
+AFG-000330;región C;Falta Servicio;2017-01-01
+AFG-003115;región A;Falta Servicio;2017-01-02
+AFG-002968;región B;Facturación;2017-01-02
+AFG-001156;región F;Falta Servicio;2017-01-02
+AFG-000192;región B;Facturación;2017-01-03
+AFG-000166;región A;Actualiza datos;2017-01-03
+AFG-000047;región D;Facturación;2017-01-03
+AFG-002915;región F;Falta Servicio;2017-01-04
+AFG-002730;región E;Instalación pendiente;2017-01-04
+AFG-001008;región A;Actualiza datos;2017-01-04
+AFG-002875;región A;Cambio de Producto;2017-01-05
+AFG-001161;región F;Facturación;2017-01-05
+AFG-000195;región D;Falta Servicio;2017-01-05
+AFG-001891;región A;Falta Servicio;2017-06-01
+AFG-001804;región C;Facturación;2017-01-06
+AFG-000164;región F;Facturación;2017-01-06
+AFG-003161;región C;Actualiza datos;2017-01-07
+AFG-002377;región B;Facturación;2017-07-01
+AFG-000155;región F;Instalación pendiente;2017-01-07
+AFG-002983;región F;Facturación;2017-01-08
+AFG-001434;región E;Falta Servicio;2017-01-08
+AFG-000576;región C;No reconoce producto;2017-01-08
+AFG-001364;región F;Facturación;2017-01-09
+AFG-000908;región A;Facturación;2017-01-09
+AFG-000800;región B;Falta Servicio;2017-01-09
+AFG-002266;región B;Instalación pendiente;2017-10-01
+AFG-001727;región C;Actualiza datos;2017-01-10
+AFG-000089;región A;Cambio de Producto;2017-01-10
+AFG-002705;región F;Facturación;2017-01-11
+AFG-001251;región A;Instalación pendiente;2017-01-11
+AFG-000775;región B;Facturación;2017-01-11
+AFG-002015;región D;Facturación;2017-12-01
+AFG-001789;región A;Facturación;2017-01-12
+AFG-001474;región B;Cambio de Producto;2017-01-12
+AFG-001793;región B;Falta Servicio;2017-01-13
+AFG-001348;región C;Falta Servicio;2017-01-13
+AFG-001176;región A;Falta Servicio;2017-01-13
+AFG-002245;región E;Facturación;2017-01-14
+AFG-001676;región D;No reconoce producto;2017-01-14
+AFG-000948;región F;Falta Servicio;2017-01-14
+AFG-002268;región F;Actualiza datos;2017-01-15
+AFG-001860;región A;Facturación;2017-01-15
+AFG-001200;región E;Actualiza datos;2017-01-15
+AFG-001906;región A;Facturación;2017-01-16
+AFG-000730;región E;Instalación pendiente;2017-01-16
+AFG-000662;región D;Facturación;2017-01-16
+AFG-002871;región B;Cambio de Producto;2017-01-17
+AFG-001265;región C;Facturación;2017-01-17
+AFG-000475;región E;Cambio de Producto;2017-01-17
+AFG-002842;región C;Facturación;2017-01-18
+AFG-001066;región E;Facturación;2017-01-18
+AFG-000274;región F;Falta Servicio;2017-01-18
+AFG-002050;región B;Falta Servicio;2017-01-19
+AFG-001885;región C;No reconoce producto;2017-01-19
+AFG-000043;región E;Facturación;2017-01-19
+AFG-001077;región B;Falta Servicio;2017-01-20
+AFG-000944;región C;Facturación;2017-01-20
+AFG-000302;región D;Facturación;2017-01-20
+AFG-002600;región E;Falta Servicio;2017-01-21
+AFG-002174;región D;Facturación;2017-01-21
+AFG-000568;región F;Cambio de Producto;2017-01-21
+AFG-001855;región E;Instalación pendiente;2017-01-22
+AFG-000253;región F;Facturación;2017-01-22
+AFG-000197;región D;Actualiza datos;2017-01-22
+AFG-002802;región B;Falta Servicio;2017-01-23
+AFG-001674;región C;Falta Servicio;2017-01-23
+AFG-000013;región F;Facturación;2017-01-23
+AFG-003060;región F;Facturación;2017-01-24
+AFG-001646;región A;No reconoce producto;2017-01-24
+AFG-001365;región E;Facturación;2017-01-24
+AFG-002733;región D;Facturación;2017-01-25
+AFG-002166;región C;Actualiza datos;2017-01-25
+AFG-002028;región F;Falta Servicio;2017-01-25
+AFG-002458;región C;No reconoce producto;2017-01-26
+AFG-000897;región F;No reconoce producto;2017-01-26
+AFG-000284;región A;Facturación;2017-01-26
+AFG-003222;región C;Facturación;2017-01-27
+AFG-002278;región A;Falta Servicio;2017-01-27
+AFG-001711;región B;Facturación;2017-01-27
+AFG-003063;región F;Facturación;2017-01-28
+AFG-002400;región B;Facturación;2017-01-28
+AFG-000750;región E;Facturación;2017-01-28
+AFG-002296;región C;Falta Servicio;2017-01-29
+AFG-001237;región D;Facturación;2017-01-29
+AFG-000471;región B;Facturación;2017-01-29
+AFG-002945;región D;Falta Servicio;2017-01-30
+AFG-001901;región F;Facturación;2017-01-30
+AFG-000466;región E;No reconoce producto;2017-01-30
+AFG-002563;región D;Cambio de Producto;2017-01-31
+AFG-001129;región C;Falta Servicio;2017-01-31
+AFG-000072;región F;Falta Servicio;2017-01-31
+AFG-001862;región C;Falta Servicio;2017-02-01
+AFG-000955;región D;Falta Servicio;2017-02-01
+AFG-000356;región B;Falta Servicio;2017-02-01
+AFG-001298;región A;Actualiza datos;2017-02-02
+AFG-000969;región F;No reconoce producto;2017-02-02
+AFG-000689;región C;No reconoce producto;2017-02-02
+AFG-003288;región B;Actualiza datos;2017-02-03
+AFG-002017;región D;Actualiza datos;2017-03-02
+AFG-000158;región C;Facturación;2017-02-03
+AFG-002395;región A;Falta Servicio;2017-04-02
+AFG-000062;región F;Falta Servicio;2017-02-04
+AFG-000010;región C;Facturación;2017-02-04
+AFG-003156;región B;Falta Servicio;2017-02-05
+AFG-001563;región C;Facturación;2017-02-05
+AFG-001527;región D;Instalación pendiente;2017-02-05
+AFG-001169;región E;Facturación;2017-02-06
+AFG-000617;región B;Falta Servicio;2017-02-06
+AFG-000191;región F;Facturación;2017-02-06
+AFG-001956;región E;Cambio de Producto;2017-07-02
+AFG-001461;región B;Falta Servicio;2017-02-07
+AFG-000405;región A;Instalación pendiente;2017-02-07
+AFG-002435;región E;Falta Servicio;2017-08-02
+AFG-000309;región F;Facturación;2017-02-08
+AFG-000109;región B;Facturación;2017-02-08
+AFG-002576;región D;Facturación;2017-09-02
+AFG-001769;región F;Falta Servicio;2017-02-09
+AFG-001030;región A;Falta Servicio;2017-02-09
+AFG-002741;región A;Instalación pendiente;2017-02-10
+AFG-001493;región B;No reconoce producto;2017-02-10
+AFG-000953;región E;Instalación pendiente;2017-02-10
+AFG-002447;región A;Actualiza datos;2017-11-02
+AFG-002403;región B;Actualiza datos;2017-11-02
+AFG-000684;región D;Actualiza datos;2017-02-11
+AFG-001378;región C;Facturación;2017-02-12
+AFG-001312;región B;Falta Servicio;2017-02-12
+AFG-000433;región D;Falta Servicio;2017-02-12
+AFG-002994;región D;Facturación;2017-02-13
+AFG-001326;región E;Falta Servicio;2017-02-13
+AFG-001094;región C;Actualiza datos;2017-02-13
+AFG-003150;región D;Falta Servicio;2017-02-14
+AFG-000743;región E;Instalación pendiente;2017-02-14
+AFG-000162;región A;Facturación;2017-02-14
+AFG-002990;región B;Falta Servicio;2017-02-15
+AFG-001755;región C;Falta Servicio;2017-02-15
+AFG-000857;región A;Actualiza datos;2017-02-15
+AFG-002513;región F;Falta Servicio;2017-02-16
+AFG-001886;región A;Falta Servicio;2017-02-16
+AFG-000541;región B;Facturación;2017-02-16
+AFG-000392;región F;Facturación;2017-02-17
+AFG-000229;región E;Facturación;2017-02-17
+AFG-000039;región C;Facturación;2017-02-17
+AFG-003266;región B;Facturación;2017-02-18
+AFG-002012;región D;Instalación pendiente;2017-02-18
+AFG-000812;región A;Facturación;2017-02-18
+AFG-001866;región B;No reconoce producto;2017-02-19
+AFG-000872;región E;Facturación;2017-02-19
+AFG-000194;región D;Falta Servicio;2017-02-19
+AFG-002953;región D;Falta Servicio;2017-02-20
+AFG-002480;región E;Falta Servicio;2017-02-20
+AFG-001839;región F;Instalación pendiente;2017-02-20
+AFG-003180;región E;Falta Servicio;2017-02-21
+AFG-003042;región D;No reconoce producto;2017-02-21
+AFG-001555;región C;Falta Servicio;2017-02-21
+AFG-002841;región B;Instalación pendiente;2017-02-22
+AFG-002185;región C;Facturación;2017-02-22
+AFG-000834;región F;Cambio de Producto;2017-02-22
+AFG-003205;región A;Facturación;2017-02-23
+AFG-001218;región B;Facturación;2017-02-23
+AFG-000622;región D;Cambio de Producto;2017-02-23
+AFG-001946;región A;Falta Servicio;2017-02-24
+AFG-001664;región F;Actualiza datos;2017-02-24
+AFG-001337;región E;Falta Servicio;2017-02-24
+AFG-002769;región B;Facturación;2017-02-25
+AFG-002291;región A;Actualiza datos;2017-02-25
+AFG-000265;región C;Facturación;2017-02-25
+AFG-002057;región C;Falta Servicio;2017-02-26
+AFG-001916;región B;No reconoce producto;2017-02-26
+AFG-000461;región D;Facturación;2017-02-26
+AFG-002401;región B;Facturación;2017-02-27
+AFG-002363;región D;Falta Servicio;2017-02-27
+AFG-000098;región E;Facturación;2017-02-27
+AFG-001521;región C;Facturación;2017-02-28
+AFG-001401;región D;Actualiza datos;2017-02-28
+AFG-000892;región E;Falta Servicio;2017-02-28
+AFG-003283;región E;Facturación;2017-03-01
+AFG-002197;región B;Facturación;2017-01-03
+AFG-000419;región A;Falta Servicio;2017-03-01
+AFG-003021;región E;Instalación pendiente;2017-03-02
+AFG-002420;región D;Facturación;2017-02-03
+AFG-000013;región F;Instalación pendiente;2017-03-02
+AFG-002721;región E;Cambio de Producto;2017-03-03
+AFG-001652;región D;Facturación;2017-03-03
+AFG-001560;región A;Falta Servicio;2017-03-03
+AFG-002335;región C;Facturación;2017-04-03
+AFG-000818;región A;Actualiza datos;2017-03-04
+AFG-000524;región B;Facturación;2017-03-04
+AFG-002424;región F;Facturación;2017-05-03
+AFG-001773;región E;Facturación;2017-03-05
+AFG-000441;región A;Cambio de Producto;2017-03-05
+AFG-002206;región D;Cambio de Producto;2017-06-03
+AFG-001998;región F;Cambio de Producto;2017-06-03
+AFG-000220;región C;Facturación;2017-03-06
+AFG-002713;región E;Falta Servicio;2017-03-07
+AFG-001592;región D;Falta Servicio;2017-03-07
+AFG-000851;región B;No reconoce producto;2017-03-07
+AFG-002836;región B;Actualiza datos;2017-03-08
+AFG-001480;región E;Instalación pendiente;2017-03-08
+AFG-001454;región F;Instalación pendiente;2017-03-08
+AFG-001994;región E;Falta Servicio;2017-09-03
+AFG-001751;región F;Falta Servicio;2017-03-09
+AFG-001210;región B;Falta Servicio;2017-03-09
+AFG-001779;región B;Cambio de Producto;2017-03-10
+AFG-000844;región A;Falta Servicio;2017-03-10
+AFG-000273;región C;Facturación;2017-03-10
+AFG-002879;región E;No reconoce producto;2017-03-11
+AFG-002507;región C;Facturación;2017-11-03
+AFG-001989;región D;Falta Servicio;2017-11-03
+AFG-003257;región D;Cambio de Producto;2017-03-12
+AFG-001893;región E;Falta Servicio;2017-12-03
+AFG-000373;región A;Falta Servicio;2017-03-12
+AFG-002162;región D;Falta Servicio;2017-03-13
+AFG-000782;región F;Facturación;2017-03-13
+AFG-000399;región E;Facturación;2017-03-13
+AFG-002566;región C;Actualiza datos;2017-03-14
+AFG-001600;región D;Cambio de Producto;2017-03-14
+AFG-000764;región E;Falta Servicio;2017-03-14
+AFG-001116;región B;Facturación;2017-03-15
+AFG-000981;región F;Falta Servicio;2017-03-15
+AFG-000331;región E;Falta Servicio;2017-03-15
+AFG-000593;región B;Actualiza datos;2017-03-16
+AFG-000573;región F;Falta Servicio;2017-03-16
+AFG-000188;región A;Falta Servicio;2017-03-16
+AFG-003268;región D;Actualiza datos;2017-03-17
+AFG-002787;región A;Falta Servicio;2017-03-17
+AFG-000653;región C;Facturación;2017-03-17
+AFG-002594;región F;Falta Servicio;2017-03-18
+AFG-001923;región D;Facturación;2017-03-18
+AFG-000159;región A;Falta Servicio;2017-03-18
+AFG-002933;región C;Facturación;2017-03-19
+AFG-002175;región B;Facturación;2017-03-19
+AFG-000744;región E;No reconoce producto;2017-03-19
+AFG-001745;región F;Facturación;2017-03-20
+AFG-001665;región C;Cambio de Producto;2017-03-20
+AFG-000453;región B;Falta Servicio;2017-03-20
+AFG-003105;región C;Falta Servicio;2017-03-21
+AFG-002560;región B;No reconoce producto;2017-03-21
+AFG-000611;región D;Actualiza datos;2017-03-21
+AFG-003076;región D;Falta Servicio;2017-03-22
+AFG-002498;región C;Falta Servicio;2017-03-22
+AFG-000417;región B;Facturación;2017-03-22
+AFG-002701;región F;Falta Servicio;2017-03-23
+AFG-002061;región E;Cambio de Producto;2017-03-23
+AFG-000366;región B;Actualiza datos;2017-03-23
+AFG-003091;región E;Falta Servicio;2017-03-24
+AFG-002307;región F;Falta Servicio;2017-03-24
+AFG-000924;región B;No reconoce producto;2017-03-24
+AFG-001564;región E;Falta Servicio;2017-03-25
+AFG-000679;región D;Facturación;2017-03-25
+AFG-000298;región C;Facturación;2017-03-25
+AFG-002957;región F;Falta Servicio;2017-03-26
+AFG-000697;región E;Facturación;2017-03-26
+AFG-000213;región D;Instalación pendiente;2017-03-26
+AFG-000784;región F;Facturación;2017-03-27
+AFG-000505;región C;Falta Servicio;2017-03-27
+AFG-000154;región D;No reconoce producto;2017-03-27
+AFG-001043;región C;Falta Servicio;2017-03-28
+AFG-000904;región F;No reconoce producto;2017-03-28
+AFG-000698;región E;Facturación;2017-03-28
+AFG-002157;región D;Facturación;2017-03-29
+AFG-000877;región F;Facturación;2017-03-29
+AFG-000813;región A;Facturación;2017-03-29
+AFG-003122;región E;Falta Servicio;2017-03-30
+AFG-002002;región F;Actualiza datos;2017-03-30
+AFG-001792;región D;Facturación;2017-03-30
+AFG-001548;región F;Facturación;2017-03-31
+AFG-000752;región B;Instalación pendiente;2017-03-31
+AFG-000362;región C;Facturación;2017-03-31
+AFG-002517;región A;Facturación;2017-01-04
+AFG-002009;región B;Cambio de Producto;2017-01-04
+AFG-001438;región F;Instalación pendiente;2017-04-01
+AFG-002624;región E;Falta Servicio;2017-04-02
+AFG-001731;región D;Falta Servicio;2017-04-02
+AFG-001704;región C;Falta Servicio;2017-04-02
+AFG-003187;región B;Facturación;2017-04-03
+AFG-002359;región F;Falta Servicio;2017-03-04
+AFG-001922;región A;Facturación;2017-03-04
+AFG-001245;región A;Actualiza datos;2017-04-04
+AFG-001155;región F;Facturación;2017-04-04
+AFG-000354;región C;Actualiza datos;2017-04-04
+AFG-002678;región C;Falta Servicio;2017-04-05
+AFG-002212;región F;Actualiza datos;2017-05-04
+AFG-002036;región E;Falta Servicio;2017-05-04
+AFG-003293;región F;Facturación;2017-04-06
+AFG-001577;región C;Facturación;2017-04-06
+AFG-001559;región D;Facturación;2017-04-06
+AFG-000728;región E;No reconoce producto;2017-04-07
+AFG-000683;región D;Actualiza datos;2017-04-07
+AFG-000584;región B;Facturación;2017-04-07
+AFG-001310;región E;Falta Servicio;2017-04-08
+AFG-000989;región B;Actualiza datos;2017-04-08
+AFG-000175;región A;Cambio de Producto;2017-04-08
+AFG-002636;región E;Actualiza datos;2017-04-09
+AFG-001682;región D;Facturación;2017-04-09
+AFG-000721;región C;Facturación;2017-04-09
+AFG-001981;región B;Facturación;2017-10-04
+AFG-001281;región F;Facturación;2017-04-10
+AFG-000902;región A;Falta Servicio;2017-04-10
+AFG-002261;región D;Facturación;2017-11-04
+AFG-000666;región A;Instalación pendiente;2017-04-11
+AFG-000526;región F;Falta Servicio;2017-04-11
+AFG-003147;región D;Cambio de Producto;2017-04-12
+AFG-002987;región C;Falta Servicio;2017-04-12
+AFG-000176;región A;Facturación;2017-04-12
+AFG-001540;región F;Falta Servicio;2017-04-13
+AFG-001388;región A;Falta Servicio;2017-04-13
+AFG-000484;región B;Facturación;2017-04-13
+AFG-003093;región E;Falta Servicio;2017-04-14
+AFG-002380;región F;Falta Servicio;2017-04-14
+AFG-000753;región A;Falta Servicio;2017-04-14
+AFG-002966;región E;Facturación;2017-04-15
+AFG-002908;región D;Facturación;2017-04-15
+AFG-002445;región F;Falta Servicio;2017-04-15
+AFG-002114;región E;Falta Servicio;2017-04-16
+AFG-002073;región A;Facturación;2017-04-16
+AFG-002054;región F;No reconoce producto;2017-04-16
+AFG-001614;región A;Falta Servicio;2017-04-17
+AFG-001534;región B;Facturación;2017-04-17
+AFG-000777;región D;Facturación;2017-04-17
+AFG-000832;región C;Facturación;2017-04-18
+AFG-000814;región F;Facturación;2017-04-18
+AFG-000559;región B;Instalación pendiente;2017-04-18
+AFG-001868;región F;Facturación;2017-04-19
+AFG-001123;región E;Falta Servicio;2017-04-19
+AFG-000289;región B;Instalación pendiente;2017-04-19
+AFG-003206;región B;Cambio de Producto;2017-04-20
+AFG-001274;región D;Facturación;2017-04-20
+AFG-000236;región C;Cambio de Producto;2017-04-20
+AFG-002025;región C;Facturación;2017-04-21
+AFG-001716;región A;Facturación;2017-04-21
+AFG-001181;región B;Facturación;2017-04-21
+AFG-002709;región B;Falta Servicio;2017-04-22
+AFG-002148;región C;No reconoce producto;2017-04-22
+AFG-000414;región A;Facturación;2017-04-22
+AFG-002433;región F;Falta Servicio;2017-04-23
+AFG-001316;región E;Instalación pendiente;2017-04-23
+AFG-001072;región B;Facturación;2017-04-23
+AFG-000965;región E;Facturación;2017-04-24
+AFG-000926;región A;Falta Servicio;2017-04-24
+AFG-000161;región B;Facturación;2017-04-24
+AFG-001380;región F;Falta Servicio;2017-04-25
+AFG-000427;región C;Falta Servicio;2017-04-25
+AFG-000251;región D;Actualiza datos;2017-04-25
+AFG-002889;región E;Falta Servicio;2017-04-26
+AFG-000776;región D;Instalación pendiente;2017-04-26
+AFG-000350;región F;Facturación;2017-04-26
+AFG-002280;región E;Falta Servicio;2017-04-27
+AFG-001719;región B;Facturación;2017-04-27
+AFG-000102;región F;Falta Servicio;2017-04-27
+AFG-002817;región B;Instalación pendiente;2017-04-28
+AFG-002075;región C;No reconoce producto;2017-04-28
+AFG-000725;región A;Cambio de Producto;2017-04-28
+AFG-002123;región C;No reconoce producto;2017-04-29
+AFG-002032;región A;No reconoce producto;2017-04-29
+AFG-001447;región F;Facturación;2017-04-29
+AFG-001368;región C;No reconoce producto;2017-04-30
+AFG-000974;región D;Instalación pendiente;2017-04-30
+AFG-000041;región E;No reconoce producto;2017-04-30
+AFG-002920;región C;Actualiza datos;2017-05-01
+AFG-001661;región E;Facturación;2017-05-01
+AFG-001017;región B;Facturación;2017-05-01
+AFG-002993;región E;Facturación;2017-05-02
+AFG-002386;región A;Falta Servicio;2017-02-05
+AFG-002234;región F;Cambio de Producto;2017-02-05
+AFG-003047;región C;Facturación;2017-05-03
+AFG-000329;región B;Facturación;2017-05-03
+AFG-000052;región D;Falta Servicio;2017-05-03
+AFG-001082;región D;Facturación;2017-05-04
+AFG-000376;región F;Falta Servicio;2017-05-04
+AFG-000136;región E;Cambio de Producto;2017-05-04
+AFG-002524;región E;No reconoce producto;2017-05-05
+AFG-002221;región D;No reconoce producto;2017-05-05
+AFG-000217;región A;Falta Servicio;2017-05-05
+AFG-002274;región B;No reconoce producto;2017-06-05
+AFG-002208;región C;Falta Servicio;2017-06-05
+AFG-001776;región A;Instalación pendiente;2017-05-06
+AFG-002613;región B;Instalación pendiente;2017-05-07
+AFG-001590;región E;Instalación pendiente;2017-05-07
+AFG-000863;región C;Falta Servicio;2017-05-07
+AFG-002216;región F;Falta Servicio;2017-08-05
+AFG-001723;región C;Facturación;2017-05-08
+AFG-000307;región A;Falta Servicio;2017-05-08
+AFG-002783;región F;Facturación;2017-05-09
+AFG-002762;región C;Falta Servicio;2017-05-09
+AFG-002346;región A;Facturación;2017-09-05
+AFG-001960;región E;Falta Servicio;2017-10-05
+AFG-000874;región D;Facturación;2017-05-10
+AFG-000802;región A;Facturación;2017-05-10
+AFG-002107;región E;Instalación pendiente;2017-11-05
+AFG-001558;región C;Facturación;2017-05-11
+AFG-001178;región D;Falta Servicio;2017-05-11
+AFG-002167;región C;Falta Servicio;2017-12-05
+AFG-000999;región D;Falta Servicio;2017-05-12
+AFG-000655;región B;Facturación;2017-05-12
+AFG-002666;región C;Falta Servicio;2017-05-13
+AFG-002317;región B;Falta Servicio;2017-05-13
+AFG-001763;región A;Facturación;2017-05-13
+AFG-002541;región A;Cambio de Producto;2017-05-14
+AFG-002369;región B;Facturación;2017-05-14
+AFG-000895;región C;Instalación pendiente;2017-05-14
+AFG-003295;región C;Falta Servicio;2017-05-15
+AFG-001336;región A;Cambio de Producto;2017-05-15
+AFG-000424;región B;Cambio de Producto;2017-05-15
+AFG-003129;región B;Falta Servicio;2017-05-16
+AFG-000367;región F;Facturación;2017-05-16
+AFG-000204;región A;Facturación;2017-05-16
+AFG-002999;región E;Falta Servicio;2017-05-17
+AFG-002108;región B;Falta Servicio;2017-05-17
+AFG-001331;región A;Actualiza datos;2017-05-17
+AFG-001941;región F;No reconoce producto;2017-05-18
+AFG-001305;región E;No reconoce producto;2017-05-18
+AFG-000393;región D;Falta Servicio;2017-05-18
+AFG-002790;región B;Cambio de Producto;2017-05-19
+AFG-001786;región A;Falta Servicio;2017-05-19
+AFG-000755;región E;Falta Servicio;2017-05-19
+AFG-001884;región F;Facturación;2017-05-20
+AFG-001012;región E;Facturación;2017-05-20
+AFG-000426;región D;Falta Servicio;2017-05-20
+AFG-001995;región C;Instalación pendiente;2017-05-21
+AFG-001865;región D;Facturación;2017-05-21
+AFG-001223;región B;Falta Servicio;2017-05-21
+AFG-002288;región E;Falta Servicio;2017-05-22
+AFG-001621;región A;Facturación;2017-05-22
+AFG-000544;región F;Facturación;2017-05-22
+AFG-002627;región C;Falta Servicio;2017-05-23
+AFG-001108;región D;Falta Servicio;2017-05-23
+AFG-000804;región F;Falta Servicio;2017-05-23
+AFG-003248;región E;Facturación;2017-05-24
+AFG-002222;región D;Falta Servicio;2017-05-24
+AFG-001422;región B;Facturación;2017-05-24
+AFG-002919;región F;Falta Servicio;2017-05-25
+AFG-001955;región B;Facturación;2017-05-25
+AFG-001247;región A;Cambio de Producto;2017-05-25
+AFG-001841;región F;Facturación;2017-05-26
+AFG-000727;región C;Cambio de Producto;2017-05-26
+AFG-000423;región E;Facturación;2017-05-26
+AFG-003088;región B;Falta Servicio;2017-05-27
+AFG-000540;región D;Facturación;2017-05-27
+AFG-000084;región A;Facturación;2017-05-27
+AFG-002714;región D;Falta Servicio;2017-05-28
+AFG-000358;región E;Falta Servicio;2017-05-28
+AFG-000034;región F;Facturación;2017-05-28
+AFG-002932;región F;Cambio de Producto;2017-05-29
+AFG-001406;región B;Facturación;2017-05-29
+AFG-000686;región E;Facturación;2017-05-29
+AFG-003131;región C;Instalación pendiente;2017-05-30
+AFG-001628;región D;Facturación;2017-05-30
+AFG-000082;región E;No reconoce producto;2017-05-30
+AFG-001991;región A;Facturación;2017-05-31
+AFG-001199;región F;Facturación;2017-05-31
+AFG-000396;región E;Facturación;2017-05-31
+AFG-002702;región B;Falta Servicio;2017-06-01
+AFG-001473;región A;Facturación;2017-06-01
+AFG-000518;región D;Facturación;2017-06-01
+AFG-002640;región C;Cambio de Producto;2017-06-02
+AFG-001750;región E;Falta Servicio;2017-06-02
+AFG-000917;región D;Instalación pendiente;2017-06-02
+AFG-001873;región A;Actualiza datos;2017-06-03
+AFG-000363;región F;Falta Servicio;2017-06-03
+AFG-000077;región C;Falta Servicio;2017-06-03
+AFG-002396;región B;Facturación;2017-04-06
+AFG-001211;región C;Cambio de Producto;2017-06-04
+AFG-000589;región D;Facturación;2017-06-04
+AFG-003018;región C;Facturación;2017-06-05
+AFG-002646;región B;No reconoce producto;2017-06-05
+AFG-000507;región D;Actualiza datos;2017-06-05
+AFG-001492;región E;No reconoce producto;2017-06-06
+AFG-001131;región F;Falta Servicio;2017-06-06
+AFG-001095;región A;Falta Servicio;2017-06-06
+AFG-002321;región E;Facturación;2017-07-06
+AFG-002093;región C;Facturación;2017-07-06
+AFG-000711;región F;Falta Servicio;2017-06-07
+AFG-003043;región A;Actualiza datos;2017-06-08
+AFG-002621;región B;Falta Servicio;2017-06-08
+AFG-000343;región C;Instalación pendiente;2017-06-08
+AFG-002954;región D;Facturación;2017-06-09
+AFG-002452;región B;Falta Servicio;2017-09-06
+AFG-000520;región A;Falta Servicio;2017-06-09
+AFG-001363;región E;Facturación;2017-06-10
+AFG-000083;región D;Falta Servicio;2017-06-10
+AFG-000022;región F;Falta Servicio;2017-06-10
+AFG-002849;región D;Falta Servicio;2017-06-11
+AFG-002813;región B;Cambio de Producto;2017-06-11
+AFG-000635;región C;Facturación;2017-06-11
+AFG-002186;región D;Facturación;2017-12-06
+AFG-002161;región A;Facturación;2017-12-06
+AFG-000599;región B;Facturación;2017-06-12
+AFG-003101;región B;Facturación;2017-06-13
+AFG-001020;región C;Falta Servicio;2017-06-13
+AFG-000959;región D;Facturación;2017-06-13
+AFG-002483;región D;Falta Servicio;2017-06-14
+AFG-001567;región C;Falta Servicio;2017-06-14
+AFG-001025;región A;Facturación;2017-06-14
+AFG-002698;región F;Facturación;2017-06-15
+AFG-001988;región A;Facturación;2017-06-15
+AFG-000314;región E;Facturación;2017-06-15
+AFG-002887;región B;Instalación pendiente;2017-06-16
+AFG-001926;región C;Falta Servicio;2017-06-16
+AFG-001070;región E;Cambio de Producto;2017-06-16
+AFG-000654;región B;Facturación;2017-06-17
+AFG-000626;región D;Falta Servicio;2017-06-17
+AFG-000017;región C;Facturación;2017-06-17
+AFG-003292;región B;Facturación;2017-06-18
+AFG-002592;región A;Facturación;2017-06-18
+AFG-001936;región C;Facturación;2017-06-18
+AFG-001824;región E;Instalación pendiente;2017-06-19
+AFG-000922;región A;Falta Servicio;2017-06-19
+AFG-000299;región F;No reconoce producto;2017-06-19
+AFG-003070;región A;Falta Servicio;2017-06-20
+AFG-002308;región E;Facturación;2017-06-20
+AFG-001827;región D;Facturación;2017-06-20
+AFG-002610;región B;Cambio de Producto;2017-06-21
+AFG-002418;región E;Facturación;2017-06-21
+AFG-001598;región F;Cambio de Producto;2017-06-21
+AFG-002686;región D;Falta Servicio;2017-06-22
+AFG-001433;región E;Facturación;2017-06-22
+AFG-000677;región B;Falta Servicio;2017-06-22
+AFG-002683;región A;Cambio de Producto;2017-06-23
+AFG-001931;región B;Facturación;2017-06-23
+AFG-000333;región C;Falta Servicio;2017-06-23
+AFG-002195;región C;Falta Servicio;2017-06-24
+AFG-001090;región A;Facturación;2017-06-24
+AFG-000592;región B;Facturación;2017-06-24
+AFG-001484;región D;Facturación;2017-06-25
+AFG-001193;región F;Facturación;2017-06-25
+AFG-000710;región C;Facturación;2017-06-25
+AFG-003229;región D;Facturación;2017-06-26
+AFG-003191;región B;Falta Servicio;2017-06-26
+AFG-002754;región E;Falta Servicio;2017-06-26
+AFG-001432;región A;Falta Servicio;2017-06-27
+AFG-000473;región C;Falta Servicio;2017-06-27
+AFG-000317;región D;Instalación pendiente;2017-06-27
+AFG-002958;región D;Facturación;2017-06-28
+AFG-001837;región E;No reconoce producto;2017-06-28
+AFG-000087;región B;Falta Servicio;2017-06-28
+AFG-003092;región A;Falta Servicio;2017-06-29
+AFG-000921;región C;Instalación pendiente;2017-06-29
+AFG-000028;región F;Falta Servicio;2017-06-29
+AFG-002629;región B;Falta Servicio;2017-06-30
+AFG-001944;región A;No reconoce producto;2017-06-30
+AFG-000828;región F;Facturación;2017-06-30
+AFG-002096;región C;Falta Servicio;2017-01-07
+AFG-001009;región D;Cambio de Producto;2017-07-01
+AFG-000550;región A;Falta Servicio;2017-07-01
+AFG-001851;región C;Falta Servicio;2017-07-02
+AFG-001412;región D;Cambio de Producto;2017-07-02
+AFG-000005;región B;Facturación;2017-07-02
+AFG-003117;región D;Facturación;2017-07-03
+AFG-001243;región C;Falta Servicio;2017-07-03
+AFG-001241;región E;Facturación;2017-07-03
+AFG-001487;región F;Falta Servicio;2017-07-04
+AFG-001416;región E;No reconoce producto;2017-07-04
+AFG-000231;región D;Facturación;2017-07-04
+AFG-002506;región B;Facturación;2017-05-07
+AFG-002443;región A;Falta Servicio;2017-05-07
+AFG-000295;región F;Falta Servicio;2017-07-05
+AFG-002874;región C;Facturación;2017-07-06
+AFG-001097;región A;Falta Servicio;2017-07-06
+AFG-000436;región F;Facturación;2017-07-06
+AFG-002936;región B;Falta Servicio;2017-07-07
+AFG-000762;región C;Falta Servicio;2017-07-07
+AFG-000546;región F;Falta Servicio;2017-07-07
+AFG-002258;región D;Instalación pendiente;2017-08-07
+AFG-002006;región E;Facturación;2017-08-07
+AFG-000627;región F;Facturación;2017-07-08
+AFG-001366;región E;Falta Servicio;2017-07-09
+AFG-001078;región D;Instalación pendiente;2017-07-09
+AFG-000014;región F;Facturación;2017-07-09
+AFG-002631;región B;Facturación;2017-07-10
+AFG-002453;región A;Cambio de Producto;2017-10-07
+AFG-001318;región C;Facturación;2017-07-10
+AFG-000995;región A;Falta Servicio;2017-07-11
+AFG-000958;región B;Falta Servicio;2017-07-11
+AFG-000516;región E;Actualiza datos;2017-07-11
+AFG-002323;región F;Falta Servicio;2017-12-07
+AFG-001441;región A;Falta Servicio;2017-07-12
+AFG-000262;región C;Falta Servicio;2017-07-12
+AFG-002182;región A;Facturación;2017-07-13
+AFG-000916;región C;Instalación pendiente;2017-07-13
+AFG-000374;región B;Facturación;2017-07-13
+AFG-001802;región B;Actualiza datos;2017-07-14
+AFG-000464;región D;Falta Servicio;2017-07-14
+AFG-000336;región A;Falta Servicio;2017-07-14
+AFG-002763;región B;Facturación;2017-07-15
+AFG-001486;región F;Facturación;2017-07-15
+AFG-000661;región A;Falta Servicio;2017-07-15
+AFG-002264;región B;Falta Servicio;2017-07-16
+AFG-002118;región C;Falta Servicio;2017-07-16
+AFG-000860;región F;Facturación;2017-07-16
+AFG-002352;región E;Falta Servicio;2017-07-17
+AFG-000732;región F;Falta Servicio;2017-07-17
+AFG-000514;región A;Facturación;2017-07-17
+AFG-001273;región A;Facturación;2017-07-18
+AFG-000976;región F;Facturación;2017-07-18
+AFG-000769;región B;Facturación;2017-07-18
+AFG-002850;región C;Facturación;2017-07-19
+AFG-001918;región A;Facturación;2017-07-19
+AFG-001863;región B;No reconoce producto;2017-07-19
+AFG-001831;región B;Facturación;2017-07-20
+AFG-001584;región E;Falta Servicio;2017-07-20
+AFG-001328;región C;Facturación;2017-07-20
+AFG-003153;región A;Facturación;2017-07-21
+AFG-003110;región F;Falta Servicio;2017-07-21
+AFG-001818;región D;Facturación;2017-07-21
+AFG-002187;región B;Falta Servicio;2017-07-22
+AFG-001502;región F;Falta Servicio;2017-07-22
+AFG-000672;región A;Facturación;2017-07-22
+AFG-001635;región A;Falta Servicio;2017-07-23
+AFG-000931;región E;Falta Servicio;2017-07-23
+AFG-000029;región F;Falta Servicio;2017-07-23
+AFG-003281;región B;Falta Servicio;2017-07-24
+AFG-001508;región D;Cambio de Producto;2017-07-24
+AFG-000956;región C;Facturación;2017-07-24
+AFG-003231;región C;Facturación;2017-07-25
+AFG-001058;región D;Facturación;2017-07-25
+AFG-000051;región E;Facturación;2017-07-25
+AFG-001796;región E;Falta Servicio;2017-07-26
+AFG-001140;región C;Instalación pendiente;2017-07-26
+AFG-000501;región B;Cambio de Producto;2017-07-26
+AFG-002812;región E;Facturación;2017-07-27
+AFG-002021;región B;Falta Servicio;2017-07-27
+AFG-001743;región A;Falta Servicio;2017-07-27
+AFG-001737;región E;Falta Servicio;2017-07-28
+AFG-001151;región D;Facturación;2017-07-28
+AFG-000993;región B;Instalación pendiente;2017-07-28
+AFG-003192;región E;Actualiza datos;2017-07-29
+AFG-002725;región F;Facturación;2017-07-29
+AFG-002460;región B;Cambio de Producto;2017-07-29
+AFG-001505;región E;Facturación;2017-07-30
+AFG-001430;región F;Facturación;2017-07-30
+AFG-000018;región A;Cambio de Producto;2017-07-30
+AFG-001684;región A;Facturación;2017-07-31
+AFG-001662;región F;Facturación;2017-07-31
+AFG-001271;región E;Falta Servicio;2017-07-31
+AFG-003140;región D;No reconoce producto;2017-08-01
+AFG-002809;región E;Falta Servicio;2017-08-01
+AFG-001054;región C;Falta Servicio;2017-08-01
+AFG-002083;región E;Falta Servicio;2017-02-08
+AFG-001686;región C;Facturación;2017-08-02
+AFG-001279;región D;Falta Servicio;2017-08-02
+AFG-003167;región C;Instalación pendiente;2017-08-03
+AFG-002068;región B;Falta Servicio;2017-03-08
+AFG-001260;región A;Falta Servicio;2017-08-03
+AFG-002502;región A;Falta Servicio;2017-04-08
+AFG-001052;región C;Cambio de Producto;2017-08-04
+AFG-000513;región B;Facturación;2017-08-04
+AFG-001842;región D;Instalación pendiente;2017-08-05
+AFG-001718;región F;Falta Servicio;2017-08-05
+AFG-001253;región C;Falta Servicio;2017-08-05
+AFG-003007;región B;Falta Servicio;2017-08-06
+AFG-002411;región C;Facturación;2017-06-08
+AFG-001065;región E;Falta Servicio;2017-08-06
+AFG-002597;región C;Falta Servicio;2017-07-08
+AFG-001973;región E;Falta Servicio;2017-07-08
+AFG-000019;región D;Facturación;2017-08-07
+AFG-003190;región E;Falta Servicio;2017-08-08
+AFG-002210;región C;Facturación;2017-08-08
+AFG-001829;región F;Falta Servicio;2017-08-08
+AFG-002857;región B;Facturación;2017-08-09
+AFG-000859;región C;Facturación;2017-08-09
+AFG-000407;región E;Falta Servicio;2017-08-09
+AFG-001896;región E;Facturación;2017-10-08
+AFG-000688;región F;Actualiza datos;2017-08-10
+AFG-000012;región A;Instalación pendiente;2017-08-10
+AFG-003184;región E;Facturación;2017-08-11
+AFG-002882;región A;Falta Servicio;2017-08-11
+AFG-001586;región B;Facturación;2017-08-11
+AFG-002373;región D;Facturación;2017-12-08
+AFG-001980;región C;Falta Servicio;2017-12-08
+AFG-001145;región B;Facturación;2017-08-12
+AFG-001656;región D;Facturación;2017-08-13
+AFG-001294;región C;Facturación;2017-08-13
+AFG-000495;región B;Falta Servicio;2017-08-13
+AFG-002845;región E;Falta Servicio;2017-08-14
+AFG-000671;región D;Cambio de Producto;2017-08-14
+AFG-000607;región F;Falta Servicio;2017-08-14
+AFG-001945;región E;Cambio de Producto;2017-08-15
+AFG-000853;región F;Falta Servicio;2017-08-15
+AFG-000485;región D;Falta Servicio;2017-08-15
+AFG-001787;región E;Facturación;2017-08-16
+AFG-001162;región B;Falta Servicio;2017-08-16
+AFG-001088;región F;Falta Servicio;2017-08-16
+AFG-002202;región F;Falta Servicio;2017-08-17
+AFG-000823;región E;Falta Servicio;2017-08-17
+AFG-000650;región C;Facturación;2017-08-17
+AFG-002229;región E;Facturación;2017-08-18
+AFG-001358;región C;Falta Servicio;2017-08-18
+AFG-000288;región D;No reconoce producto;2017-08-18
+AFG-001983;región C;Falta Servicio;2017-08-19
+AFG-001959;región B;Facturación;2017-08-19
+AFG-001601;región E;Facturación;2017-08-19
+AFG-003097;región E;Falta Servicio;2017-08-20
+AFG-002980;región F;Instalación pendiente;2017-08-20
+AFG-000705;región D;Facturación;2017-08-20
+AFG-003217;región C;Facturación;2017-08-21
+AFG-002551;región B;Falta Servicio;2017-08-21
+AFG-002119;región D;Facturación;2017-08-21
+AFG-002469;región E;Falta Servicio;2017-08-22
+AFG-002000;región C;Falta Servicio;2017-08-22
+AFG-000080;región D;Facturación;2017-08-22
+AFG-002003;región E;Falta Servicio;2017-08-23
+AFG-001329;región A;Instalación pendiente;2017-08-23
+AFG-001139;región B;Facturación;2017-08-23
+AFG-002172;región D;Facturación;2017-08-24
+AFG-000972;región C;Facturación;2017-08-24
+AFG-000644;región B;Falta Servicio;2017-08-24
+AFG-002098;región A;Falta Servicio;2017-08-25
+AFG-001027;región E;Falta Servicio;2017-08-25
+AFG-000949;región D;Facturación;2017-08-25
+AFG-003304;región C;Facturación;2017-08-26
+AFG-001386;región B;Falta Servicio;2017-08-26
+AFG-000447;región E;Facturación;2017-08-26
+AFG-003099;región C;Instalación pendiente;2017-08-27
+AFG-002482;región E;Facturación;2017-08-27
+AFG-000806;región D;Facturación;2017-08-27
+AFG-000519;región B;Falta Servicio;2017-08-28
+AFG-000499;región D;Facturación;2017-08-28
+AFG-000437;región E;Actualiza datos;2017-08-28
+AFG-002456;región B;Actualiza datos;2017-08-29
+AFG-002253;región C;Falta Servicio;2017-08-29
+AFG-001878;región A;Falta Servicio;2017-08-29
+AFG-002387;región B;Actualiza datos;2017-08-30
+AFG-001914;región F;No reconoce producto;2017-08-30
+AFG-000977;región C;Actualiza datos;2017-08-30
+AFG-001683;región C;Falta Servicio;2017-08-31
+AFG-001259;región F;Actualiza datos;2017-08-31
+AFG-000856;región A;Actualiza datos;2017-08-31
+AFG-002899;región D;Falta Servicio;2017-09-01
+AFG-001512;región B;Facturación;2017-09-01
+AFG-000003;región C;Cambio de Producto;2017-09-01
+AFG-002350;región E;Facturación;2017-02-09
+AFG-001117;región F;Instalación pendiente;2017-09-02
+AFG-000391;región D;Falta Servicio;2017-09-02
+AFG-002504;región F;Falta Servicio;2017-03-09
+AFG-001897;región D;Falta Servicio;2017-03-09
+AFG-000562;región A;Falta Servicio;2017-09-03
+AFG-003286;región B;Facturación;2017-09-04
+AFG-002706;región C;Falta Servicio;2017-09-04
+AFG-002417;región D;Facturación;2017-04-09
+AFG-001397;región B;Cambio de Producto;2017-09-05
+AFG-001225;región A;Facturación;2017-09-05
+AFG-001114;región C;Falta Servicio;2017-09-05
+AFG-002441;región D;Falta Servicio;2017-06-09
+AFG-001597;región F;Falta Servicio;2017-09-06
+AFG-001007;región A;No reconoce producto;2017-09-06
+AFG-003245;región F;Actualiza datos;2017-09-07
+AFG-001115;región D;Falta Servicio;2017-09-07
+AFG-000724;región A;Actualiza datos;2017-09-07
+AFG-002194;región B;No reconoce producto;2017-08-09
+AFG-002097;región A;Facturación;2017-08-09
+AFG-001006;región F;Falta Servicio;2017-09-08
+AFG-002963;región F;Instalación pendiente;2017-09-09
+AFG-001847;región E;Facturación;2017-09-09
+AFG-001579;región C;Falta Servicio;2017-09-09
+AFG-003075;región C;Falta Servicio;2017-09-10
+AFG-000452;región E;Facturación;2017-09-10
+AFG-000110;región B;Cambio de Producto;2017-09-10
+AFG-002120;región C;Falta Servicio;2017-11-09
+AFG-001693;región D;Falta Servicio;2017-09-11
+AFG-000382;región B;Facturación;2017-09-11
+AFG-000778;región C;Instalación pendiente;2017-09-12
+AFG-000431;región F;No reconoce producto;2017-09-12
+AFG-000149;región E;Facturación;2017-09-12
+AFG-002794;región A;Falta Servicio;2017-09-13
+AFG-002048;región F;Falta Servicio;2017-09-13
+AFG-001215;región E;Falta Servicio;2017-09-13
+AFG-000961;región D;Falta Servicio;2017-09-14
+AFG-000385;región F;Facturación;2017-09-14
+AFG-000328;región E;Instalación pendiente;2017-09-14
+AFG-001589;región B;Facturación;2017-09-15
+AFG-001399;región A;Falta Servicio;2017-09-15
+AFG-000239;región D;Facturación;2017-09-15
+AFG-002893;región C;Facturación;2017-09-16
+AFG-002105;región F;Actualiza datos;2017-09-16
+AFG-001278;región D;Cambio de Producto;2017-09-16
+AFG-001377;región B;Facturación;2017-09-17
+AFG-000529;región D;Cambio de Producto;2017-09-17
+AFG-000237;región E;Facturación;2017-09-17
+AFG-002297;región B;Falta Servicio;2017-09-18
+AFG-001770;región C;No reconoce producto;2017-09-18
+AFG-000992;región F;Falta Servicio;2017-09-18
+AFG-002446;región E;Actualiza datos;2017-09-19
+AFG-001951;región D;Facturación;2017-09-19
+AFG-000069;región A;Instalación pendiente;2017-09-19
+AFG-002846;región E;Falta Servicio;2017-09-20
+AFG-002431;región A;Falta Servicio;2017-09-20
+AFG-001071;región F;Facturación;2017-09-20
+AFG-003237;región E;Facturación;2017-09-21
+AFG-002426;región B;Actualiza datos;2017-09-21
+AFG-001019;región C;No reconoce producto;2017-09-21
+AFG-002582;región F;Instalación pendiente;2017-09-22
+AFG-001233;región D;Falta Servicio;2017-09-22
+AFG-000675;región C;Actualiza datos;2017-09-22
+AFG-002616;región C;Falta Servicio;2017-09-23
+AFG-001236;región B;Facturación;2017-09-23
+AFG-001028;región A;Instalación pendiente;2017-09-23
+AFG-003118;región C;Falta Servicio;2017-09-24
+AFG-003111;región A;Facturación;2017-09-24
+AFG-002931;región F;Cambio de Producto;2017-09-24
+AFG-002430;región E;Facturación;2017-09-25
+AFG-001451;región B;Falta Servicio;2017-09-25
+AFG-000618;región A;No reconoce producto;2017-09-25
+AFG-003232;región F;Falta Servicio;2017-09-26
+AFG-003084;región C;Falta Servicio;2017-09-26
+AFG-002793;región E;Cambio de Producto;2017-09-26
+AFG-001354;región C;Facturación;2017-09-27
+AFG-000971;región B;Actualiza datos;2017-09-27
+AFG-000070;región F;Falta Servicio;2017-09-27
+AFG-002177;región C;No reconoce producto;2017-09-28
+AFG-001976;región B;Cambio de Producto;2017-09-28
+AFG-000311;región A;No reconoce producto;2017-09-28
+AFG-002878;región F;Facturación;2017-09-29
+AFG-001485;región E;Facturación;2017-09-29
+AFG-000786;región D;No reconoce producto;2017-09-29
+AFG-002781;región E;Falta Servicio;2017-09-30
+AFG-001675;región F;Actualiza datos;2017-09-30
+AFG-000795;región D;Falta Servicio;2017-09-30
+AFG-002473;región A;Falta Servicio;2017-01-10
+AFG-001838;región B;Cambio de Producto;2017-10-01
+AFG-001044;región D;Falta Servicio;2017-10-01
+AFG-002392;región D;Actualiza datos;2017-02-10
+AFG-001552;región A;Cambio de Producto;2017-10-02
+AFG-001275;región C;Facturación;2017-10-02
+AFG-003220;región A;Facturación;2017-10-03
+AFG-001821;región D;Falta Servicio;2017-10-03
+AFG-001467;región F;Falta Servicio;2017-10-03
+AFG-002964;región A;Facturación;2017-10-04
+AFG-002553;región F;Facturación;2017-04-10
+AFG-000757;región B;No reconoce producto;2017-10-04
+AFG-003285;región D;Facturación;2017-10-05
+AFG-002995;región A;Facturación;2017-10-05
+AFG-001033;región C;Actualiza datos;2017-10-05
+AFG-000467;región A;Facturación;2017-10-06
+AFG-000232;región C;Facturación;2017-10-06
+AFG-000168;región D;Instalación pendiente;2017-10-06
+AFG-002731;región A;Falta Servicio;2017-10-07
+AFG-001322;región D;Falta Servicio;2017-10-07
+AFG-000383;región B;Falta Servicio;2017-10-07
+AFG-002822;región A;Facturación;2017-10-08
+AFG-002806;región B;Facturación;2017-10-08
+AFG-000528;región D;Cambio de Producto;2017-10-08
+AFG-003096;región C;Actualiza datos;2017-10-09
+AFG-002905;región F;Falta Servicio;2017-10-09
+AFG-001242;región D;Falta Servicio;2017-10-09
+AFG-002499;región A;Falta Servicio;2017-10-10
+AFG-002246;región E;Falta Servicio;2017-10-10
+AFG-002034;región B;Facturación;2017-10-10
+AFG-001859;región D;Falta Servicio;2017-10-11
+AFG-001573;región C;Falta Servicio;2017-10-11
+AFG-001075;región B;Actualiza datos;2017-10-11
+AFG-002533;región A;Facturación;2017-12-10
+AFG-001712;región C;Falta Servicio;2017-10-12
+AFG-000010;región D;Cambio de Producto;2017-10-12
+AFG-002007;región C;Facturación;2017-10-13
+AFG-001694;región F;Instalación pendiente;2017-10-13
+AFG-000259;región D;Actualiza datos;2017-10-13
+AFG-002340;región B;Falta Servicio;2017-10-14
+AFG-001104;región C;No reconoce producto;2017-10-14
+AFG-000871;región F;Falta Servicio;2017-10-14
+AFG-002444;región A;Falta Servicio;2017-10-15
+AFG-002070;región D;Falta Servicio;2017-10-15
+AFG-002069;región C;Falta Servicio;2017-10-15
+AFG-003120;región B;Facturación;2017-10-16
+AFG-002828;región C;Facturación;2017-10-16
+AFG-001803;región F;Actualiza datos;2017-10-16
+AFG-003086;región E;Facturación;2017-10-17
+AFG-002766;región F;Facturación;2017-10-17
+AFG-002250;región D;Facturación;2017-10-17
+AFG-001872;región F;No reconoce producto;2017-10-18
+AFG-000517;región B;Facturación;2017-10-18
+AFG-000308;región A;Actualiza datos;2017-10-18
+AFG-002785;región E;Facturación;2017-10-19
+AFG-000695;región B;Falta Servicio;2017-10-19
+AFG-000324;región D;Falta Servicio;2017-10-19
+AFG-002429;región B;Actualiza datos;2017-10-20
+AFG-002303;región D;Instalación pendiente;2017-10-20
+AFG-001042;región A;Falta Servicio;2017-10-20
+AFG-002797;región D;Facturación;2017-10-21
+AFG-001376;región B;Falta Servicio;2017-10-21
+AFG-000960;región A;Facturación;2017-10-21
+AFG-002112;región A;Falta Servicio;2017-10-22
+AFG-000286;región C;Facturación;2017-10-22
+AFG-000007;región B;Facturación;2017-10-22
+AFG-002139;región D;No reconoce producto;2017-10-23
+AFG-002100;región F;Facturación;2017-10-23
+AFG-000881;región E;Falta Servicio;2017-10-23
+AFG-002837;región E;Facturación;2017-10-24
+AFG-002437;región F;Falta Servicio;2017-10-24
+AFG-000846;región B;Facturación;2017-10-24
+AFG-002324;región B;Falta Servicio;2017-10-25
+AFG-001672;región F;Facturación;2017-10-25
+AFG-000395;región C;Facturación;2017-10-25
+AFG-002810;región B;Falta Servicio;2017-10-26
+AFG-001934;región E;No reconoce producto;2017-10-26
+AFG-000132;región D;Facturación;2017-10-26
+AFG-002947;región C;Falta Servicio;2017-10-27
+AFG-001659;región F;Falta Servicio;2017-10-27
+AFG-000275;región A;No reconoce producto;2017-10-27
+AFG-001964;región D;Facturación;2017-10-28
+AFG-001710;región F;Instalación pendiente;2017-10-28
+AFG-001518;región E;No reconoce producto;2017-10-28
+AFG-001748;región C;Cambio de Producto;2017-10-29
+AFG-000756;región B;Actualiza datos;2017-10-29
+AFG-000130;región A;Falta Servicio;2017-10-29
+AFG-002518;región D;Facturación;2017-10-30
+AFG-001845;región A;Facturación;2017-10-30
+AFG-000068;región C;Facturación;2017-10-30
+AFG-002738;región B;Falta Servicio;2017-10-31
+AFG-001448;región E;Falta Servicio;2017-10-31
+AFG-000549;región C;Facturación;2017-10-31
+AFG-001289;región F;Facturación;2017-11-01
+AFG-001112;región A;Falta Servicio;2017-11-01
+AFG-000780;región D;Falta Servicio;2017-11-01
+AFG-002344;región D;Falta Servicio;2017-02-11
+AFG-001707;región C;Falta Servicio;2017-11-02
+AFG-000016;región E;Facturación;2017-11-02
+AFG-003305;región D;Falta Servicio;2017-11-03
+AFG-002337;región C;Actualiza datos;2017-03-11
+AFG-001445;región E;Facturación;2017-11-03
+AFG-001411;región F;Facturación;2017-11-04
+AFG-001352;región B;Facturación;2017-11-04
+AFG-000470;región A;Facturación;2017-11-04
+AFG-001287;región C;Falta Servicio;2017-11-05
+AFG-001252;región F;Falta Servicio;2017-11-05
+AFG-000837;región E;Cambio de Producto;2017-11-05
+AFG-002557;región C;Falta Servicio;2017-06-11
+AFG-000015;región B;Falta Servicio;2017-11-06
+AFG-000002;región A;No reconoce producto;2017-11-06
+AFG-002689;región C;Actualiza datos;2017-11-07
+AFG-001195;región E;Cambio de Producto;2017-11-07
+AFG-000370;región D;Instalación pendiente;2017-11-07
+AFG-002029;región B;Falta Servicio;2017-08-11
+AFG-000929;región C;Facturación;2017-11-08
+AFG-000203;región D;Cambio de Producto;2017-11-08
+AFG-003130;región E;Falta Servicio;2017-11-09
+AFG-002774;región C;Cambio de Producto;2017-11-09
+AFG-000321;región D;Falta Servicio;2017-11-09
+AFG-002673;región A;Falta Servicio;2017-11-10
+AFG-000836;región F;Cambio de Producto;2017-11-10
+AFG-000264;región B;Falta Servicio;2017-11-10
+AFG-002353;región C;Facturación;2017-11-11
+AFG-002165;región D;Facturación;2017-11-11
+AFG-001910;región B;Facturación;2017-11-11
+AFG-002913;región F;Actualiza datos;2017-11-12
+AFG-002191;región E;Falta Servicio;2017-12-11
+AFG-001788;región C;Facturación;2017-11-12
+AFG-002223;región F;Facturación;2017-11-13
+AFG-001120;región D;Facturación;2017-11-13
+AFG-000179;región E;No reconoce producto;2017-11-13
+AFG-002612;región A;Instalación pendiente;2017-11-14
+AFG-001421;región F;Falta Servicio;2017-11-14
+AFG-001409;región D;Facturación;2017-11-14
+AFG-002209;región D;Facturación;2017-11-15
+AFG-001068;región C;Falta Servicio;2017-11-15
+AFG-000002;región E;Falta Servicio;2017-11-15
+AFG-002121;región D;Falta Servicio;2017-11-16
+AFG-000487;región C;No reconoce producto;2017-11-16
+AFG-000173;región F;Falta Servicio;2017-11-16
+AFG-001708;región A;Facturación;2017-11-17
+AFG-000636;región F;Actualiza datos;2017-11-17
+AFG-000600;región C;Facturación;2017-11-17
+AFG-001319;región D;Facturación;2017-11-18
+AFG-000312;región C;Falta Servicio;2017-11-18
+AFG-000210;región A;No reconoce producto;2017-11-18
+AFG-002156;región A;Facturación;2017-11-19
+AFG-001615;región B;Falta Servicio;2017-11-19
+AFG-000494;región F;Instalación pendiente;2017-11-19
+AFG-002960;región E;Instalación pendiente;2017-11-20
+AFG-000809;región A;Falta Servicio;2017-11-20
+AFG-000384;región B;Facturación;2017-11-20
+AFG-003246;región B;Facturación;2017-11-21
+AFG-003087;región E;Falta Servicio;2017-11-21
+AFG-002619;región F;Facturación;2017-11-21
+AFG-001892;región E;Falta Servicio;2017-11-22
+AFG-001158;región F;Falta Servicio;2017-11-22
+AFG-000009;región A;No reconoce producto;2017-11-22
+AFG-001725;región F;Facturación;2017-11-23
+AFG-001309;región E;Actualiza datos;2017-11-23
+AFG-000075;región A;Facturación;2017-11-23
+AFG-001730;región F;Actualiza datos;2017-11-24
+AFG-001624;región C;Falta Servicio;2017-11-24
+AFG-001202;región B;Instalación pendiente;2017-11-24
+AFG-002405;región D;Actualiza datos;2017-11-25
+AFG-001647;región C;Falta Servicio;2017-11-25
+AFG-001177;región E;Instalación pendiente;2017-11-25
+AFG-002956;región B;Falta Servicio;2017-11-26
+AFG-002289;región C;Actualiza datos;2017-11-26
+AFG-001761;región E;No reconoce producto;2017-11-26
+AFG-003015;región C;Falta Servicio;2017-11-27
+AFG-001638;región F;Actualiza datos;2017-11-27
+AFG-000588;región D;Facturación;2017-11-27
+AFG-002782;región D;Facturación;2017-11-28
+AFG-001209;región B;Facturación;2017-11-28
+AFG-000774;región C;Facturación;2017-11-28
+AFG-002497;región C;Cambio de Producto;2017-11-29
+AFG-001623;región A;Facturación;2017-11-29
+AFG-000788;región F;Facturación;2017-11-29
+AFG-002248;región A;Falta Servicio;2017-11-30
+AFG-002244;región C;Facturación;2017-11-30
+AFG-000606;región B;Actualiza datos;2017-11-30
+AFG-002364;región B;Facturación;2017-01-12
+AFG-001418;región C;Cambio de Producto;2017-12-01
+AFG-000991;región A;Facturación;2017-12-01
+AFG-002997;región D;Cambio de Producto;2017-12-02
+AFG-000320;región A;Falta Servicio;2017-12-02
+AFG-000171;región F;Falta Servicio;2017-12-02
+AFG-002362;región A;Falta Servicio;2017-03-12
+AFG-001531;región B;Facturación;2017-12-03
+AFG-000422;región F;No reconoce producto;2017-12-03
+AFG-000942;región C;Instalación pendiente;2017-12-04
+AFG-000560;región E;Facturación;2017-12-04
+AFG-000551;región F;Actualiza datos;2017-12-04
+AFG-003228;región D;Facturación;2017-12-05
+AFG-003196;región E;Facturación;2017-12-05
+AFG-000658;región A;Facturación;2017-12-05
+AFG-003057;región E;Facturación;2017-12-06
+AFG-001557;región C;Falta Servicio;2017-12-06
+AFG-000252;región D;Falta Servicio;2017-12-06
+AFG-002864;región B;Facturación;2017-12-07
+AFG-001714;región C;Falta Servicio;2017-12-07
+AFG-001571;región D;Falta Servicio;2017-12-07
+AFG-002298;región A;Falta Servicio;2017-08-12
+AFG-001226;región E;Facturación;2017-12-08
+AFG-001100;región F;Falta Servicio;2017-12-08
+AFG-003049;región F;No reconoce producto;2017-12-09
+AFG-000767;región E;Facturación;2017-12-09
+AFG-000398;región A;Falta Servicio;2017-12-09
+AFG-002851;región D;Facturación;2017-12-10
+AFG-001228;región C;Facturación;2017-12-10
+AFG-000561;región E;Facturación;2017-12-10
+AFG-003214;región A;Facturación;2017-12-11
+AFG-002798;región F;Falta Servicio;2017-12-11
+AFG-000394;región B;Facturación;2017-12-11
+AFG-001808;región E;Falta Servicio;2017-12-12
+AFG-001194;región D;Falta Servicio;2017-12-12
+AFG-000890;región C;Actualiza datos;2017-12-12
+AFG-002556;región C;No reconoce producto;2017-12-13
+AFG-002279;región E;Facturación;2017-12-13
+AFG-001806;región F;Falta Servicio;2017-12-13
+AFG-002471;región F;Falta Servicio;2017-12-14
+AFG-001049;región E;Falta Servicio;2017-12-14
+AFG-001000;región D;Facturación;2017-12-14
+AFG-002942;región D;Facturación;2017-12-15
+AFG-001746;región E;Facturación;2017-12-15
+AFG-000139;región C;Facturación;2017-12-15
+AFG-002218;región D;Facturación;2017-12-16
+AFG-001867;región B;Falta Servicio;2017-12-16
+AFG-001643;región A;Falta Servicio;2017-12-16
+AFG-002952;región B;Instalación pendiente;2017-12-17
+AFG-001032;región E;Falta Servicio;2017-12-17
+AFG-000030;región C;Facturación;2017-12-17
+AFG-001146;región C;Falta Servicio;2017-12-18
+AFG-000601;región F;No reconoce producto;2017-12-18
+AFG-000230;región E;Falta Servicio;2017-12-18
+AFG-002235;región D;Falta Servicio;2017-12-19
+AFG-000822;región A;Facturación;2017-12-19
+AFG-000489;región C;No reconoce producto;2017-12-19
+AFG-002938;región B;Cambio de Producto;2017-12-20
+AFG-001881;región D;Facturación;2017-12-20
+AFG-000416;región C;Cambio de Producto;2017-12-20
+AFG-002848;región E;Actualiza datos;2017-12-21
+AFG-002743;región D;Facturación;2017-12-21
+AFG-002715;región F;Falta Servicio;2017-12-21
+AFG-002378;región D;Facturación;2017-12-22
+AFG-001856;región C;Facturación;2017-12-22
+AFG-001626;región E;Cambio de Producto;2017-12-22
+AFG-002127;región E;Facturación;2017-12-23
+AFG-001325;región D;Actualiza datos;2017-12-23
+AFG-000572;región B;Falta Servicio;2017-12-23
+AFG-003058;región E;Facturación;2017-12-24
+AFG-001023;región D;Falta Servicio;2017-12-24
+AFG-000451;región B;Instalación pendiente;2017-12-24
+AFG-002868;región D;Falta Servicio;2017-12-25
+AFG-001490;región B;Actualiza datos;2017-12-25
+AFG-000535;región C;No reconoce producto;2017-12-25
+AFG-002591;región A;Facturación;2017-12-26
+AFG-001970;región F;Falta Servicio;2017-12-26
+AFG-000465;región B;Falta Servicio;2017-12-26
+AFG-003263;región F;Falta Servicio;2017-12-27
+AFG-002988;región B;Falta Servicio;2017-12-27
+AFG-000325;región E;Facturación;2017-12-27
+AFG-003291;región F;Facturación;2017-12-28
+AFG-002777;región A;Facturación;2017-12-28
+AFG-000108;región D;Facturación;2017-12-28
+AFG-002319;región E;Instalación pendiente;2017-12-29
+AFG-002311;región D;Falta Servicio;2017-12-29
+AFG-000862;región C;Cambio de Producto;2017-12-29
+AFG-002408;región A;Cambio de Producto;2017-12-30
+AFG-002376;región C;Facturación;2017-12-30
+AFG-000434;región B;Falta Servicio;2017-12-30
+AFG-002158;región F;Falta Servicio;2017-12-31
+AFG-001570;región D;Instalación pendiente;2017-12-31
+AFG-001026;región E;Falta Servicio;2017-12-31
+AFG-002863;región A;Instalación pendiente;2018-01-01
+AFG-002345;región F;Facturación;2018-01-01
+AFG-002173;región B;Falta Servicio;2018-01-01
+AFG-002011;región F;Facturación;2018-02-01
+AFG-001229;región D;Falta Servicio;2018-01-02
+AFG-001224;región E;Facturación;2018-01-02
+AFG-001101;región D;Actualiza datos;2018-01-03
+AFG-000973;región F;Falta Servicio;2018-01-03
+AFG-000184;región E;No reconoce producto;2018-01-03
+AFG-003017;región C;Instalación pendiente;2018-01-04
+AFG-001420;región B;Facturación;2018-01-04
+AFG-001198;región D;Actualiza datos;2018-01-04
+AFG-003249;región E;Falta Servicio;2018-01-05
+AFG-002667;región F;Falta Servicio;2018-01-05
+AFG-002129;región B;Facturación;2018-05-01
+AFG-002804;región F;Falta Servicio;2018-01-06
+AFG-001533;región A;Falta Servicio;2018-01-06
+AFG-000939;región B;Falta Servicio;2018-01-06
+AFG-002707;región E;Falta Servicio;2018-01-07
+AFG-001778;región A;Falta Servicio;2018-01-07
+AFG-000547;región D;Falta Servicio;2018-01-07
+AFG-003080;región C;Cambio de Producto;2018-01-08
+AFG-002935;región E;Falta Servicio;2018-01-08
+AFG-000281;región B;Falta Servicio;2018-01-08
+AFG-002858;región A;No reconoce producto;2018-01-09
+AFG-002699;región C;Facturación;2018-01-09
+AFG-000011;región D;No reconoce producto;2018-01-09
+AFG-002976;región E;Falta Servicio;2018-01-10
+AFG-001996;región F;Falta Servicio;2018-10-01
+AFG-001442;región D;Falta Servicio;2018-01-10
+AFG-002547;región D;Facturación;2018-11-01
+AFG-002267;región C;Facturación;2018-11-01
+AFG-001759;región B;Facturación;2018-01-11
+AFG-001740;región F;Falta Servicio;2018-01-12
+AFG-000497;región D;Actualiza datos;2018-01-12
+AFG-000290;región A;Cambio de Producto;2018-01-12
+AFG-003226;región B;Cambio de Producto;2018-01-13
+AFG-001452;región C;Falta Servicio;2018-01-13
+AFG-001005;región F;Falta Servicio;2018-01-13
+AFG-003134;región D;Falta Servicio;2018-01-14
+AFG-003098;región C;Actualiza datos;2018-01-14
+AFG-002180;región B;Facturación;2018-01-14
+AFG-003276;región F;Instalación pendiente;2018-01-15
+AFG-003052;región A;Cambio de Producto;2018-01-15
+AFG-001196;región B;Instalación pendiente;2018-01-15
+AFG-003219;región B;No reconoce producto;2018-01-16
+AFG-001809;región E;Falta Servicio;2018-01-16
+AFG-001446;región D;Falta Servicio;2018-01-16
+AFG-003213;región F;Falta Servicio;2018-01-17
+AFG-002826;región D;Facturación;2018-01-17
+AFG-001904;región A;Facturación;2018-01-17
+AFG-002529;región D;Facturación;2018-01-18
+AFG-002082;región B;Facturación;2018-01-18
+AFG-000898;región C;Instalación pendiente;2018-01-18
+AFG-002491;región D;Facturación;2018-01-19
+AFG-000643;región E;Facturación;2018-01-19
+AFG-000088;región B;Falta Servicio;2018-01-19
+AFG-002820;región F;Facturación;2018-01-20
+AFG-002320;región B;Falta Servicio;2018-01-20
+AFG-000885;región C;Cambio de Producto;2018-01-20
+AFG-003238;región C;Facturación;2018-01-21
+AFG-002778;región F;Falta Servicio;2018-01-21
+AFG-001266;región A;No reconoce producto;2018-01-21
+AFG-003160;región E;Facturación;2018-01-22
+AFG-002074;región D;Falta Servicio;2018-01-22
+AFG-000305;región F;Facturación;2018-01-22
+AFG-001899;región B;Facturación;2018-01-23
+AFG-001427;región A;Facturación;2018-01-23
+AFG-000567;región E;Falta Servicio;2018-01-23
+AFG-003069;región A;Falta Servicio;2018-01-24
+AFG-002153;región C;Facturación;2018-01-24
+AFG-000243;región D;Falta Servicio;2018-01-24
+AFG-002585;región D;Facturación;2018-01-25
+AFG-001834;región C;Cambio de Producto;2018-01-25
+AFG-001395;región E;Falta Servicio;2018-01-25
+AFG-002046;región A;Facturación;2018-01-26
+AFG-001239;región F;Facturación;2018-01-26
+AFG-000198;región E;Facturación;2018-01-26
+AFG-003289;región B;Facturación;2018-01-27
+AFG-002398;región A;Facturación;2018-01-27
+AFG-001917;región D;Facturación;2018-01-27
+AFG-002668;región B;Facturación;2018-01-28
+AFG-002608;región C;Instalación pendiente;2018-01-28
+AFG-002574;región D;Facturación;2018-01-28
+AFG-001920;región E;Falta Servicio;2018-01-29
+AFG-001717;región F;No reconoce producto;2018-01-29
+AFG-000638;región B;Falta Servicio;2018-01-29
+AFG-003165;región F;Falta Servicio;2018-01-30
+AFG-000608;región A;Facturación;2018-01-30
+AFG-000338;región C;Falta Servicio;2018-01-30
+AFG-002808;región C;Falta Servicio;2018-01-31
+AFG-002101;región B;Instalación pendiente;2018-01-31
+AFG-001350;región A;Instalación pendiente;2018-01-31
+AFG-001645;región A;Instalación pendiente;2018-02-01
+AFG-001414;región F;Actualiza datos;2018-02-01
+AFG-000141;región C;Facturación;2018-02-01
+AFG-003278;región D;Falta Servicio;2018-02-02
+AFG-001545;región E;Facturación;2018-02-02
+AFG-000716;región A;Facturación;2018-02-02
+AFG-002685;región F;Facturación;2018-02-03
+AFG-001990;región D;No reconoce producto;2018-03-02
+AFG-000442;región C;Falta Servicio;2018-02-03
+AFG-002292;región E;Facturación;2018-04-02
+AFG-001013;región D;Facturación;2018-02-04
+AFG-000659;región A;Cambio de Producto;2018-02-04
+AFG-002358;región C;Actualiza datos;2018-05-02
+AFG-001507;región B;Actualiza datos;2018-02-05
+AFG-000278;región D;Facturación;2018-02-05
+AFG-002670;región F;Facturación;2018-02-06
+AFG-001111;región C;Falta Servicio;2018-02-06
+AFG-000739;región A;Facturación;2018-02-06
+AFG-003141;región B;Facturación;2018-02-07
+AFG-002577;región C;Falta Servicio;2018-07-02
+AFG-000369;región D;Cambio de Producto;2018-02-07
+AFG-002277;región F;Instalación pendiente;2018-08-02
+AFG-001435;región A;Facturación;2018-02-08
+AFG-000463;región E;Facturación;2018-02-08
+AFG-002843;región D;Falta Servicio;2018-02-09
+AFG-002004;región E;Falta Servicio;2018-09-02
+AFG-000527;región F;Instalación pendiente;2018-02-09
+AFG-002955;región A;Falta Servicio;2018-02-10
+AFG-002881;región B;Falta Servicio;2018-02-10
+AFG-002290;región D;Falta Servicio;2018-10-02
+AFG-003151;región B;Facturación;2018-02-11
+AFG-001909;región A;Cambio de Producto;2018-11-02
+AFG-000747;región E;Facturación;2018-02-11
+AFG-002792;región F;Falta Servicio;2018-02-12
+AFG-001935;región E;Facturación;2018-12-02
+AFG-001539;región A;Falta Servicio;2018-02-12
+AFG-002911;región A;Falta Servicio;2018-02-13
+AFG-002461;región F;Falta Servicio;2018-02-13
+AFG-001608;región B;Falta Servicio;2018-02-13
+AFG-002047;región B;Falta Servicio;2018-02-14
+AFG-000789;región C;Falta Servicio;2018-02-14
+AFG-000722;región A;Falta Servicio;2018-02-14
+AFG-003106;región F;Falta Servicio;2018-02-15
+AFG-002645;región C;Falta Servicio;2018-02-15
+AFG-000585;región D;Facturación;2018-02-15
+AFG-002630;región B;Falta Servicio;2018-02-16
+AFG-002314;región E;Falta Servicio;2018-02-16
+AFG-000387;región D;Falta Servicio;2018-02-16
+AFG-000811;región E;Falta Servicio;2018-02-17
+AFG-000735;región A;Facturación;2018-02-17
+AFG-000425;región D;Facturación;2018-02-17
+AFG-002354;región A;Falta Servicio;2018-02-18
+AFG-001933;región F;Facturación;2018-02-18
+AFG-001691;región E;Facturación;2018-02-18
+AFG-002581;región D;Falta Servicio;2018-02-19
+AFG-001701;región F;Falta Servicio;2018-02-19
+AFG-001235;región C;Falta Servicio;2018-02-19
+AFG-002023;región A;Actualiza datos;2018-02-20
+AFG-000968;región E;Falta Servicio;2018-02-20
+AFG-000796;región F;Falta Servicio;2018-02-20
+AFG-002128;región E;No reconoce producto;2018-02-21
+AFG-002013;región B;Facturación;2018-02-21
+AFG-000935;región A;Facturación;2018-02-21
+AFG-002723;región B;Falta Servicio;2018-02-22
+AFG-000849;región D;Facturación;2018-02-22
+AFG-000390;región C;Falta Servicio;2018-02-22
+AFG-000304;región B;Falta Servicio;2018-02-23
+AFG-000147;región C;Instalación pendiente;2018-02-23
+AFG-000119;región F;Facturación;2018-02-23
+AFG-003267;región A;No reconoce producto;2018-02-24
+AFG-002680;región C;Falta Servicio;2018-02-24
+AFG-000248;región B;Facturación;2018-02-24
+AFG-002192;región E;Facturación;2018-02-25
+AFG-001828;región D;Facturación;2018-02-25
+AFG-000791;región A;Facturación;2018-02-25
+AFG-002131;región E;Facturación;2018-02-26
+AFG-001277;región C;Facturación;2018-02-26
+AFG-000420;región F;Instalación pendiente;2018-02-26
+AFG-002247;región C;Falta Servicio;2018-02-27
+AFG-002014;región B;Facturación;2018-02-27
+AFG-001323;región D;Falta Servicio;2018-02-27
+AFG-003255;región F;Falta Servicio;2018-02-28
+AFG-001587;región D;Falta Servicio;2018-02-28
+AFG-000595;región E;Facturación;2018-02-28
+AFG-003193;región C;Facturación;2018-03-01
+AFG-003085;región F;Facturación;2018-03-01
+AFG-000004;región B;Cambio de Producto;2018-03-01
+AFG-002665;región D;Facturación;2018-03-02
+AFG-001611;región C;Falta Servicio;2018-03-02
+AFG-000604;región E;Facturación;2018-03-02
+AFG-002906;región B;No reconoce producto;2018-03-03
+AFG-002331;región D;Facturación;2018-03-03
+AFG-000287;región C;Facturación;2018-03-03
+AFG-001930;región E;Facturación;2018-04-03
+AFG-001603;región C;No reconoce producto;2018-03-04
+AFG-000621;región B;Facturación;2018-03-04
+AFG-001799;región A;Falta Servicio;2018-03-05
+AFG-001524;región D;Facturación;2018-03-05
+AFG-000794;región C;Facturación;2018-03-05
+AFG-001498;región B;No reconoce producto;2018-03-06
+AFG-000894;región A;Facturación;2018-03-06
+AFG-000763;región C;Falta Servicio;2018-03-06
+AFG-002771;región E;Facturación;2018-03-07
+AFG-002432;región A;Facturación;2018-07-03
+AFG-001992;región D;Facturación;2018-07-03
+AFG-003146;región D;Facturación;2018-03-08
+AFG-000448;región A;Falta Servicio;2018-03-08
+AFG-000142;región F;Falta Servicio;2018-03-08
+AFG-002348;región E;No reconoce producto;2018-09-03
+AFG-001663;región F;Falta Servicio;2018-03-09
+AFG-000165;región D;Facturación;2018-03-09
+AFG-002671;región C;Falta Servicio;2018-03-10
+AFG-001375;región F;Facturación;2018-03-10
+AFG-000741;región B;No reconoce producto;2018-03-10
+AFG-002388;región A;Facturación;2018-11-03
+AFG-001685;región F;Falta Servicio;2018-03-11
+AFG-000754;región E;Falta Servicio;2018-03-11
+AFG-001753;región C;No reconoce producto;2018-03-12
+AFG-001476;región E;No reconoce producto;2018-03-12
+AFG-000211;región F;Falta Servicio;2018-03-12
+AFG-003243;región D;Facturación;2018-03-13
+AFG-001958;región E;Facturación;2018-03-13
+AFG-001921;región C;Facturación;2018-03-13
+AFG-002676;región C;Instalación pendiente;2018-03-14
+AFG-000984;región D;Instalación pendiente;2018-03-14
+AFG-000415;región B;Facturación;2018-03-14
+AFG-002219;región E;Actualiza datos;2018-03-15
+AFG-001208;región A;Facturación;2018-03-15
+AFG-000368;región D;Instalación pendiente;2018-03-15
+AFG-001616;región E;Falta Servicio;2018-03-16
+AFG-001249;región F;Cambio de Producto;2018-03-16
+AFG-001125;región A;Facturación;2018-03-16
+AFG-002284;región F;Falta Servicio;2018-03-17
+AFG-001882;región E;Facturación;2018-03-17
+AFG-000530;región A;Facturación;2018-03-17
+AFG-003145;región B;Falta Servicio;2018-03-18
+AFG-002476;región F;Facturación;2018-03-18
+AFG-000409;región C;No reconoce producto;2018-03-18
+AFG-002910;región F;Actualiza datos;2018-03-19
+AFG-001143;región D;Falta Servicio;2018-03-19
+AFG-000201;región C;Facturación;2018-03-19
+AFG-003262;región C;Falta Servicio;2018-03-20
+AFG-002357;región B;Facturación;2018-03-20
+AFG-000344;región F;Cambio de Producto;2018-03-20
+AFG-002413;región F;Falta Servicio;2018-03-21
+AFG-001811;región E;Cambio de Producto;2018-03-21
+AFG-000496;región C;Facturación;2018-03-21
+AFG-001825;región F;Falta Servicio;2018-03-22
+AFG-001569;región C;Facturación;2018-03-22
+AFG-001419;región A;Instalación pendiente;2018-03-22
+AFG-002902;región E;Instalación pendiente;2018-03-23
+AFG-001689;región F;Facturación;2018-03-23
+AFG-000054;región B;Facturación;2018-03-23
+AFG-002370;región C;No reconoce producto;2018-03-24
+AFG-000893;región F;Facturación;2018-03-24
+AFG-000078;región A;Falta Servicio;2018-03-24
+AFG-003148;región F;Instalación pendiente;2018-03-25
+AFG-002514;región A;Cambio de Producto;2018-03-25
+AFG-000315;región B;Facturación;2018-03-25
+AFG-002043;región E;Actualiza datos;2018-03-26
+AFG-001795;región B;Instalación pendiente;2018-03-26
+AFG-000254;región A;Falta Servicio;2018-03-26
+AFG-001633;región F;Falta Servicio;2018-03-27
+AFG-001192;región A;Instalación pendiente;2018-03-27
+AFG-000187;región B;No reconoce producto;2018-03-27
+AFG-002578;región D;Falta Servicio;2018-03-28
+AFG-001846;región A;Facturación;2018-03-28
+AFG-001546;región B;Actualiza datos;2018-03-28
+AFG-001482;región A;Facturación;2018-03-29
+AFG-001132;región B;Facturación;2018-03-29
+AFG-000488;región C;Facturación;2018-03-29
+AFG-002664;región B;Facturación;2018-03-30
+AFG-000240;región F;Falta Servicio;2018-03-30
+AFG-000065;región E;No reconoce producto;2018-03-30
+AFG-002929;región A;Facturación;2018-03-31
+AFG-002800;región F;Facturación;2018-03-31
+AFG-000263;región D;Facturación;2018-03-31
+AFG-003128;región B;Actualiza datos;2018-04-01
+AFG-000510;región E;Falta Servicio;2018-04-01
+AFG-000268;región F;No reconoce producto;2018-04-01
+AFG-002644;región A;Facturación;2018-04-02
+AFG-001819;región F;Falta Servicio;2018-04-02
+AFG-001248;región D;Falta Servicio;2018-04-02
+AFG-002869;región D;Falta Servicio;2018-04-03
+AFG-002540;región A;Actualiza datos;2018-03-04
+AFG-000919;región B;Falta Servicio;2018-04-03
+AFG-001784;región D;Cambio de Producto;2018-04-04
+AFG-001307;región A;Falta Servicio;2018-04-04
+AFG-001179;región E;Instalación pendiente;2018-04-04
+AFG-002675;región A;Cambio de Producto;2018-04-05
+AFG-001599;región D;Falta Servicio;2018-04-05
+AFG-001580;región C;Falta Servicio;2018-04-05
+AFG-002049;región B;No reconoce producto;2018-06-04
+AFG-001060;región E;Falta Servicio;2018-04-06
+AFG-000674;región A;Falta Servicio;2018-04-06
+AFG-003014;región B;No reconoce producto;2018-04-07
+AFG-002950;región E;Falta Servicio;2018-04-07
+AFG-001966;región F;Falta Servicio;2018-07-04
+AFG-001301;región D;Falta Servicio;2018-04-08
+AFG-001197;región C;Falta Servicio;2018-04-08
+AFG-000404;región F;Falta Servicio;2018-04-08
+AFG-002494;región E;Falta Servicio;2018-09-04
+AFG-001814;región D;Cambio de Producto;2018-04-09
+AFG-000486;región B;Facturación;2018-04-09
+AFG-003023;región F;Actualiza datos;2018-04-10
+AFG-002140;región D;Falta Servicio;2018-10-04
+AFG-000886;región E;Cambio de Producto;2018-04-10
+AFG-001757;región B;Facturación;2018-04-11
+AFG-001056;región C;Actualiza datos;2018-04-11
+AFG-000875;región E;Falta Servicio;2018-04-11
+AFG-001880;región B;Facturación;2018-12-04
+AFG-001381;región A;Facturación;2018-04-12
+AFG-000745;región F;Actualiza datos;2018-04-12
+AFG-002493;región D;Falta Servicio;2018-04-13
+AFG-000397;región A;Facturación;2018-04-13
+AFG-000111;región B;Falta Servicio;2018-04-13
+AFG-002423;región E;Facturación;2018-04-14
+AFG-001578;región B;Falta Servicio;2018-04-14
+AFG-000381;región A;Facturación;2018-04-14
+AFG-003066;región F;Falta Servicio;2018-04-15
+AFG-002414;región B;Facturación;2018-04-15
+AFG-000940;región C;No reconoce producto;2018-04-15
+AFG-002684;región A;Facturación;2018-04-16
+AFG-001556;región B;Falta Servicio;2018-04-16
+AFG-000081;región F;Actualiza datos;2018-04-16
+AFG-001423;región E;Facturación;2018-04-17
+AFG-001321;región F;Instalación pendiente;2018-04-17
+AFG-000300;región D;Falta Servicio;2018-04-17
+AFG-002959;región E;Facturación;2018-04-18
+AFG-000932;región C;Facturación;2018-04-18
+AFG-000790;región D;Actualiza datos;2018-04-18
+AFG-003306;región A;Instalación pendiente;2018-04-19
+AFG-002853;región E;Facturación;2018-04-19
+AFG-000548;región B;Instalación pendiente;2018-04-19
+AFG-003173;región B;Facturación;2018-04-20
+AFG-002285;región E;Cambio de Producto;2018-04-20
+AFG-000826;región D;No reconoce producto;2018-04-20
+AFG-001627;región E;Falta Servicio;2018-04-21
+AFG-001185;región F;Facturación;2018-04-21
+AFG-000272;región D;Falta Servicio;2018-04-21
+AFG-001726;región F;Facturación;2018-04-22
+AFG-000990;región A;Falta Servicio;2018-04-22
+AFG-000866;región B;Facturación;2018-04-22
+AFG-002301;región C;Falta Servicio;2018-04-23
+AFG-000825;región E;No reconoce producto;2018-04-23
+AFG-000380;región D;Falta Servicio;2018-04-23
+AFG-002434;región A;Facturación;2018-04-24
+AFG-002143;región D;Facturación;2018-04-24
+AFG-000357;región C;Facturación;2018-04-24
+AFG-002759;región E;Falta Servicio;2018-04-25
+AFG-001299;región A;Falta Servicio;2018-04-25
+AFG-001187;región F;Falta Servicio;2018-04-25
+AFG-002975;región B;Facturación;2018-04-26
+AFG-001206;región C;No reconoce producto;2018-04-26
+AFG-001142;región D;Instalación pendiente;2018-04-26
+AFG-002382;región B;Falta Servicio;2018-04-27
+AFG-001977;región C;Facturación;2018-04-27
+AFG-000097;región A;Falta Servicio;2018-04-27
+AFG-000749;región A;Falta Servicio;2018-04-28
+AFG-000612;región C;Falta Servicio;2018-04-28
+AFG-000531;región D;Actualiza datos;2018-04-28
+AFG-002252;región B;Cambio de Producto;2018-04-29
+AFG-002152;región D;No reconoce producto;2018-04-29
+AFG-001496;región A;Actualiza datos;2018-04-29
+AFG-001617;región E;Falta Servicio;2018-04-30
+AFG-001429;región F;Falta Servicio;2018-04-30
+AFG-000928;región A;Cambio de Producto;2018-04-30
+AFG-001629;región B;Cambio de Producto;2018-05-01
+AFG-001150;región E;Facturación;2018-05-01
+AFG-000491;región F;No reconoce producto;2018-05-01
+AFG-001468;región E;Falta Servicio;2018-05-02
+AFG-001373;región B;Falta Servicio;2018-05-02
+AFG-000631;región A;Falta Servicio;2018-05-02
+AFG-002652;región C;Falta Servicio;2018-05-03
+AFG-001102;región D;Actualiza datos;2018-05-03
+AFG-001086;región F;Falta Servicio;2018-05-03
+AFG-001391;región E;Instalación pendiente;2018-05-04
+AFG-001219;región F;Facturación;2018-05-04
+AFG-001154;región C;Facturación;2018-05-04
+AFG-001061;región B;Actualiza datos;2018-05-05
+AFG-000614;región E;No reconoce producto;2018-05-05
+AFG-000316;región A;No reconoce producto;2018-05-05
+AFG-001374;región F;Cambio de Producto;2018-05-06
+AFG-000850;región E;Facturación;2018-05-06
+AFG-000841;región D;Falta Servicio;2018-05-06
+AFG-001679;región B;Falta Servicio;2018-05-07
+AFG-001081;región A;Facturación;2018-05-07
+AFG-000580;región F;Actualiza datos;2018-05-07
+AFG-001957;región E;Actualiza datos;2018-08-05
+AFG-001183;región F;Actualiza datos;2018-05-08
+AFG-000889;región B;Falta Servicio;2018-05-08
+AFG-001501;región B;Facturación;2018-05-09
+AFG-001464;región E;Facturación;2018-05-09
+AFG-001283;región A;Facturación;2018-05-09
+AFG-002758;región E;Falta Servicio;2018-05-10
+AFG-002457;región B;Facturación;2018-10-05
+AFG-001735;región F;Facturación;2018-05-10
+AFG-002835;región C;Actualiza datos;2018-05-11
+AFG-001379;región A;Facturación;2018-05-11
+AFG-000114;región B;Falta Servicio;2018-05-11
+AFG-003242;región C;Facturación;2018-05-12
+AFG-002720;región F;Falta Servicio;2018-05-12
+AFG-000106;región A;Facturación;2018-05-12
+AFG-001469;región D;Falta Servicio;2018-05-13
+AFG-001171;región E;Facturación;2018-05-13
+AFG-000829;región B;Facturación;2018-05-13
+AFG-002339;región B;Falta Servicio;2018-05-14
+AFG-001550;región E;Facturación;2018-05-14
+AFG-000271;región C;Falta Servicio;2018-05-14
+AFG-003094;región E;Instalación pendiente;2018-05-15
+AFG-002789;región F;Falta Servicio;2018-05-15
+AFG-002360;región A;Falta Servicio;2018-05-15
+AFG-002866;región C;Actualiza datos;2018-05-16
+AFG-002109;región D;Instalación pendiente;2018-05-16
+AFG-000945;región A;Cambio de Producto;2018-05-16
+AFG-002768;región E;Falta Servicio;2018-05-17
+AFG-001004;región F;Falta Servicio;2018-05-17
+AFG-000011;región A;Falta Servicio;2018-05-17
+AFG-003035;región C;Facturación;2018-05-18
+AFG-002489;región E;Falta Servicio;2018-05-18
+AFG-000104;región D;Falta Servicio;2018-05-18
+AFG-003299;región D;Facturación;2018-05-19
+AFG-002410;región F;Actualiza datos;2018-05-19
+AFG-000578;región A;Falta Servicio;2018-05-19
+AFG-001697;región C;Falta Servicio;2018-05-20
+AFG-001159;región E;Falta Servicio;2018-05-20
+AFG-000923;región B;Falta Servicio;2018-05-20
+AFG-003036;región A;Facturación;2018-05-21
+AFG-001780;región F;Facturación;2018-05-21
+AFG-000664;región E;Actualiza datos;2018-05-21
+AFG-002727;región C;Actualiza datos;2018-05-22
+AFG-002692;región A;Falta Servicio;2018-05-22
+AFG-000504;región B;Falta Servicio;2018-05-22
+AFG-002134;región D;Actualiza datos;2018-05-23
+AFG-001969;región C;Instalación pendiente;2018-05-23
+AFG-001297;región E;Facturación;2018-05-23
+AFG-003152;región B;Facturación;2018-05-24
+AFG-000127;región D;Instalación pendiente;2018-05-24
+AFG-000012;región E;Instalación pendiente;2018-05-24
+AFG-003108;región A;Cambio de Producto;2018-05-25
+AFG-002972;región F;Falta Servicio;2018-05-25
+AFG-001221;región E;Falta Servicio;2018-05-25
+AFG-002734;región E;Falta Servicio;2018-05-26
+AFG-002663;región C;Cambio de Producto;2018-05-26
+AFG-000934;región B;Falta Servicio;2018-05-26
+AFG-002484;región B;Falta Servicio;2018-05-27
+AFG-002227;región D;Actualiza datos;2018-05-27
+AFG-001671;región E;No reconoce producto;2018-05-27
+AFG-002735;región E;Cambio de Producto;2018-05-28
+AFG-001342;región B;Falta Servicio;2018-05-28
+AFG-000377;región D;Instalación pendiente;2018-05-28
+AFG-001979;región B;Facturación;2018-05-29
+AFG-001742;región C;Facturación;2018-05-29
+AFG-000685;región D;Actualiza datos;2018-05-29
+AFG-003254;región B;Falta Servicio;2018-05-30
+AFG-001450;región E;Facturación;2018-05-30
+AFG-000227;región C;Facturación;2018-05-30
+AFG-002859;región F;Facturación;2018-05-31
+AFG-002660;región B;Falta Servicio;2018-05-31
+AFG-002326;región C;Facturación;2018-05-31
+AFG-003090;región D;Falta Servicio;2018-06-01
+AFG-002422;región A;Facturación;2018-01-06
+AFG-001864;región E;Falta Servicio;2018-06-01
+AFG-001883;región D;Instalación pendiente;2018-02-06
+AFG-001765;región C;Falta Servicio;2018-06-02
+AFG-001074;región A;Facturación;2018-06-02
+AFG-003125;región C;Facturación;2018-06-03
+AFG-001764;región A;Cambio de Producto;2018-06-03
+AFG-001163;región B;Falta Servicio;2018-06-03
+AFG-003258;región A;Falta Servicio;2018-06-04
+AFG-003188;región B;Falta Servicio;2018-06-04
+AFG-002697;región E;No reconoce producto;2018-06-04
+AFG-002220;región B;Falta Servicio;2018-05-06
+AFG-000954;región C;Falta Servicio;2018-06-05
+AFG-000901;región D;Falta Servicio;2018-06-05
+AFG-001119;región A;Falta Servicio;2018-06-06
+AFG-000964;región B;Cambio de Producto;2018-06-06
+AFG-000021;región D;No reconoce producto;2018-06-06
+AFG-003079;región D;Facturación;2018-06-07
+AFG-001606;región F;Facturación;2018-06-07
+AFG-001106;región A;Facturación;2018-06-07
+AFG-002375;región B;Falta Servicio;2018-08-06
+AFG-000933;región F;Falta Servicio;2018-06-08
+AFG-000186;región C;No reconoce producto;2018-06-08
+AFG-003046;región F;No reconoce producto;2018-06-09
+AFG-001479;región B;Facturación;2018-06-09
+AFG-001039;región A;Falta Servicio;2018-06-09
+AFG-001669;región A;Facturación;2018-06-10
+AFG-001189;región B;Falta Servicio;2018-06-10
+AFG-000967;región C;Falta Servicio;2018-06-10
+AFG-002102;región F;Facturación;2018-11-06
+AFG-001950;región C;Facturación;2018-11-06
+AFG-000869;región E;Falta Servicio;2018-06-11
+AFG-002590;región B;Falta Servicio;2018-12-06
+AFG-001519;región F;Cambio de Producto;2018-06-12
+AFG-000681;región C;Instalación pendiente;2018-06-12
+AFG-002231;región A;Falta Servicio;2018-06-13
+AFG-001415;región C;Actualiza datos;2018-06-13
+AFG-001300;región B;No reconoce producto;2018-06-13
+AFG-003121;región F;Instalación pendiente;2018-06-14
+AFG-002921;región E;Cambio de Producto;2018-06-14
+AFG-000233;región A;Facturación;2018-06-14
+AFG-002463;región A;Facturación;2018-06-15
+AFG-000506;región F;Falta Servicio;2018-06-15
+AFG-000129;región D;Facturación;2018-06-15
+AFG-003168;región C;Facturación;2018-06-16
+AFG-002677;región E;Facturación;2018-06-16
+AFG-000575;región B;Facturación;2018-06-16
+AFG-001396;región A;Facturación;2018-06-17
+AFG-000594;región F;Cambio de Producto;2018-06-17
+AFG-000310;región E;No reconoce producto;2018-06-17
+AFG-001572;región A;No reconoce producto;2018-06-18
+AFG-001035;región C;Falta Servicio;2018-06-18
+AFG-000714;región F;Facturación;2018-06-18
+AFG-003109;región F;Falta Servicio;2018-06-19
+AFG-001630;región D;Actualiza datos;2018-06-19
+AFG-000246;región A;Facturación;2018-06-19
+AFG-003149;región B;Facturación;2018-06-20
+AFG-001965;región F;Actualiza datos;2018-06-20
+AFG-000006;región C;Cambio de Producto;2018-06-20
+AFG-002572;región C;Actualiza datos;2018-06-21
+AFG-002371;región E;Facturación;2018-06-21
+AFG-000668;región F;Facturación;2018-06-21
+AFG-002095;región A;Facturación;2018-06-22
+AFG-001752;región B;Facturación;2018-06-22
+AFG-000646;región E;Falta Servicio;2018-06-22
+AFG-002986;región A;Facturación;2018-06-23
+AFG-000023;región E;Facturación;2018-06-23
+AFG-000000;región F;Facturación;2018-06-23
+AFG-003000;región F;Facturación;2018-06-24
+AFG-002347;región A;Facturación;2018-06-24
+AFG-001444;región E;Falta Servicio;2018-06-24
+AFG-001497;región E;Instalación pendiente;2018-06-25
+AFG-000718;región C;Falta Servicio;2018-06-25
+AFG-000257;región D;Falta Servicio;2018-06-25
+AFG-003056;región D;Facturación;2018-06-26
+AFG-002639;región C;Falta Servicio;2018-06-26
+AFG-001046;región B;Instalación pendiente;2018-06-26
+AFG-002595;región A;Facturación;2018-06-27
+AFG-002361;región C;Facturación;2018-06-27
+AFG-001739;región F;Falta Servicio;2018-06-27
+AFG-002788;región D;Facturación;2018-06-28
+AFG-001961;región B;Falta Servicio;2018-06-28
+AFG-001370;región C;Facturación;2018-06-28
+AFG-003103;región D;Facturación;2018-06-29
+AFG-002618;región E;No reconoce producto;2018-06-29
+AFG-002051;región A;Falta Servicio;2018-06-29
+AFG-002718;región D;Instalación pendiente;2018-06-30
+AFG-000616;región C;Actualiza datos;2018-06-30
+AFG-000411;región E;Facturación;2018-06-30
+AFG-002567;región B;Facturación;2018-01-07
+AFG-002472;región F;Actualiza datos;2018-01-07
+AFG-002255;región E;Falta Servicio;2018-01-07
+AFG-002605;región A;Instalación pendiente;2018-02-07
+AFG-000511;región B;Falta Servicio;2018-07-02
+AFG-000224;región C;Instalación pendiente;2018-07-02
+AFG-002564;región A;Falta Servicio;2018-03-07
+AFG-001596;región F;Falta Servicio;2018-07-03
+AFG-000619;región B;Cambio de Producto;2018-07-03
+AFG-003230;región C;Facturación;2018-07-04
+AFG-002559;región F;No reconoce producto;2018-04-07
+AFG-000502;región A;Facturación;2018-07-04
+AFG-001962;región B;Cambio de Producto;2018-05-07
+AFG-001762;región C;No reconoce producto;2018-07-05
+AFG-000293;región A;Falta Servicio;2018-07-05
+AFG-002027;región D;Falta Servicio;2018-06-07
+AFG-000982;región F;Facturación;2018-07-06
+AFG-000406;región E;Falta Servicio;2018-07-06
+AFG-001942;región C;Falta Servicio;2018-07-07
+AFG-001214;región B;Facturación;2018-07-07
+AFG-000244;región A;Cambio de Producto;2018-07-07
+AFG-002306;región E;Facturación;2018-08-07
+AFG-002106;región B;Cambio de Producto;2018-08-07
+AFG-000322;región D;Instalación pendiente;2018-07-08
+AFG-000641;región D;Falta Servicio;2018-07-09
+AFG-000479;región A;Facturación;2018-07-09
+AFG-000280;región F;Instalación pendiente;2018-07-09
+AFG-000386;región A;Instalación pendiente;2018-07-10
+AFG-000348;región C;No reconoce producto;2018-07-10
+AFG-000279;región D;Facturación;2018-07-10
+AFG-003158;región A;Falta Servicio;2018-07-11
+AFG-003059;región B;Falta Servicio;2018-07-11
+AFG-002475;región F;Falta Servicio;2018-11-07
+AFG-002767;región D;Falta Servicio;2018-07-12
+AFG-000570;región E;Facturación;2018-07-12
+AFG-000402;región A;Instalación pendiente;2018-07-12
+AFG-001460;región D;Falta Servicio;2018-07-13
+AFG-000983;región B;Facturación;2018-07-13
+AFG-000691;región E;Falta Servicio;2018-07-13
+AFG-002880;región F;Falta Servicio;2018-07-14
+AFG-001734;región E;No reconoce producto;2018-07-14
+AFG-000637;región A;Facturación;2018-07-14
+AFG-003083;región B;Instalación pendiente;2018-07-15
+AFG-000694;región C;Facturación;2018-07-15
+AFG-000625;región F;Instalación pendiente;2018-07-15
+AFG-002753;región D;Actualiza datos;2018-07-16
+AFG-001522;región E;Facturación;2018-07-16
+AFG-001087;región F;Falta Servicio;2018-07-16
+AFG-001903;región E;Instalación pendiente;2018-07-17
+AFG-001869;región A;Actualiza datos;2018-07-17
+AFG-001338;región D;Actualiza datos;2018-07-17
+AFG-003301;región A;Falta Servicio;2018-07-18
+AFG-002973;región C;Actualiza datos;2018-07-18
+AFG-001562;región B;Facturación;2018-07-18
+AFG-001568;región C;Facturación;2018-07-19
+AFG-001515;región E;Falta Servicio;2018-07-19
+AFG-000303;región D;No reconoce producto;2018-07-19
+AFG-002412;región F;Facturación;2018-07-20
+AFG-002053;región D;Facturación;2018-07-20
+AFG-001093;región E;Facturación;2018-07-20
+AFG-002855;región A;Actualiza datos;2018-07-21
+AFG-000742;región D;Facturación;2018-07-21
+AFG-000337;región E;Facturación;2018-07-21
+AFG-002747;región B;No reconoce producto;2018-07-22
+AFG-002695;región A;Falta Servicio;2018-07-22
+AFG-000056;región F;Instalación pendiente;2018-07-22
+AFG-003001;región D;Actualiza datos;2018-07-23
+AFG-001848;región C;Actualiza datos;2018-07-23
+AFG-001641;región B;Facturación;2018-07-23
+AFG-003189;región A;Cambio de Producto;2018-07-24
+AFG-001583;región F;Instalación pendiente;2018-07-24
+AFG-001426;región D;Falta Servicio;2018-07-24
+AFG-003181;región F;Actualiza datos;2018-07-25
+AFG-003169;región A;Facturación;2018-07-25
+AFG-001771;región B;Falta Servicio;2018-07-25
+AFG-002904;región D;No reconoce producto;2018-07-26
+AFG-000118;región B;Facturación;2018-07-26
+AFG-000004;región E;Facturación;2018-07-26
+AFG-001544;región A;Cambio de Producto;2018-07-27
+AFG-000120;región E;Actualiza datos;2018-07-27
+AFG-000105;región F;Facturación;2018-07-27
+AFG-000998;región A;Falta Servicio;2018-07-28
+AFG-000665;región C;Facturación;2018-07-28
+AFG-000256;región B;Falta Servicio;2018-07-28
+AFG-002389;región B;Facturación;2018-07-29
+AFG-001724;región A;Facturación;2018-07-29
+AFG-000151;región C;Falta Servicio;2018-07-29
+AFG-002924;región F;Facturación;2018-07-30
+AFG-001481;región A;Falta Servicio;2018-07-30
+AFG-001317;región B;No reconoce producto;2018-07-30
+AFG-003260;región A;Facturación;2018-07-31
+AFG-002588;región F;Falta Servicio;2018-07-31
+AFG-002300;región D;Falta Servicio;2018-07-31
+AFG-002647;región E;Falta Servicio;2018-08-01
+AFG-002356;región B;Facturación;2018-01-08
+AFG-002115;región D;Cambio de Producto;2018-01-08
+AFG-002655;región B;Facturación;2018-08-02
+AFG-002562;región C;Falta Servicio;2018-02-08
+AFG-000957;región F;Falta Servicio;2018-08-02
+AFG-002548;región C;Facturación;2018-03-08
+AFG-000432;región F;Falta Servicio;2018-08-03
+AFG-000408;región E;No reconoce producto;2018-08-03
+AFG-002901;región D;Falta Servicio;2018-08-04
+AFG-002322;región A;Facturación;2018-04-08
+AFG-001634;región B;Facturación;2018-08-04
+AFG-003073;región D;No reconoce producto;2018-08-05
+AFG-002554;región A;Falta Servicio;2018-05-08
+AFG-001264;región F;Falta Servicio;2018-08-05
+AFG-002486;región F;Actualiza datos;2018-06-08
+AFG-001267;región B;Actualiza datos;2018-08-06
+AFG-001174;región E;Actualiza datos;2018-08-06
+AFG-002080;región F;Actualiza datos;2018-07-08
+AFG-001212;región D;Falta Servicio;2018-08-07
+AFG-000647;región A;Falta Servicio;2018-08-07
+AFG-002862;región B;Instalación pendiente;2018-08-08
+AFG-000704;región A;Facturación;2018-08-08
+AFG-000603;región C;Actualiza datos;2018-08-08
+AFG-002178;región A;Falta Servicio;2018-09-08
+AFG-001975;región B;Falta Servicio;2018-09-08
+AFG-001639;región F;Falta Servicio;2018-08-09
+AFG-003284;región C;Cambio de Producto;2018-08-10
+AFG-003051;región E;Actualiza datos;2018-08-10
+AFG-000218;región F;Falta Servicio;2018-08-10
+AFG-002830;región B;Facturación;2018-08-11
+AFG-002144;región D;Falta Servicio;2018-11-08
+AFG-001858;región E;Falta Servicio;2018-08-11
+AFG-002366;región F;Facturación;2018-12-08
+AFG-002338;región C;Facturación;2018-12-08
+AFG-000001;región E;Falta Servicio;2018-08-12
+AFG-001031;región E;Facturación;2018-08-13
+AFG-001016;región F;Facturación;2018-08-13
+AFG-000833;región D;No reconoce producto;2018-08-13
+AFG-003114;región B;Facturación;2018-08-14
+AFG-002996;región C;Facturación;2018-08-14
+AFG-002065;región E;Facturación;2018-08-14
+AFG-003172;región A;No reconoce producto;2018-08-15
+AFG-002925;región C;Cambio de Producto;2018-08-15
+AFG-002598;región B;Cambio de Producto;2018-08-15
+AFG-001536;región B;Facturación;2018-08-16
+AFG-001449;región C;Facturación;2018-08-16
+AFG-000389;región F;Falta Servicio;2018-08-16
+AFG-003002;región F;Facturación;2018-08-17
+AFG-002829;región E;Falta Servicio;2018-08-17
+AFG-002575;región C;Falta Servicio;2018-08-17
+AFG-002819;región D;Facturación;2018-08-18
+AFG-001514;región C;Actualiza datos;2018-08-18
+AFG-000332;región E;Falta Servicio;2018-08-18
+AFG-003223;región D;Facturación;2018-08-19
+AFG-002909;región A;Facturación;2018-08-19
+AFG-000914;región F;Facturación;2018-08-19
+AFG-002203;región A;Falta Servicio;2018-08-20
+AFG-002067;región D;Falta Servicio;2018-08-20
+AFG-001554;región C;Facturación;2018-08-20
+AFG-000581;región D;Instalación pendiente;2018-08-21
+AFG-000418;región C;Facturación;2018-08-21
+AFG-000133;región E;Facturación;2018-08-21
+AFG-002490;región C;Facturación;2018-08-22
+AFG-001340;región E;Falta Servicio;2018-08-22
+AFG-000181;región D;Falta Servicio;2018-08-22
+AFG-002872;región C;Facturación;2018-08-23
+AFG-002757;región E;Falta Servicio;2018-08-23
+AFG-001173;región D;Facturación;2018-08-23
+AFG-001850;región E;Falta Servicio;2018-08-24
+AFG-001574;región A;Falta Servicio;2018-08-24
+AFG-000590;región F;Facturación;2018-08-24
+AFG-002948;región B;Facturación;2018-08-25
+AFG-002147;región E;Facturación;2018-08-25
+AFG-001067;región A;Facturación;2018-08-25
+AFG-003264;región A;No reconoce producto;2018-08-26
+AFG-002137;región F;Falta Servicio;2018-08-26
+AFG-001888;región B;Facturación;2018-08-26
+AFG-002332;región F;Falta Servicio;2018-08-27
+AFG-001127;región C;Cambio de Producto;2018-08-27
+AFG-000713;región A;Facturación;2018-08-27
+AFG-002509;región A;Falta Servicio;2018-08-28
+AFG-001405;región B;No reconoce producto;2018-08-28
+AFG-000629;región C;Falta Servicio;2018-08-28
+AFG-000673;región D;Cambio de Producto;2018-08-29
+AFG-000212;región F;Instalación pendiente;2018-08-29
+AFG-000117;región A;Falta Servicio;2018-08-29
+AFG-002604;región F;Facturación;2018-08-30
+AFG-001180;región D;Falta Servicio;2018-08-30
+AFG-000421;región A;Instalación pendiente;2018-08-30
+AFG-002803;región C;Falta Servicio;2018-08-31
+AFG-001184;región D;Facturación;2018-08-31
+AFG-000652;región F;Instalación pendiente;2018-08-31
+AFG-002233;región C;No reconoce producto;2018-01-09
+AFG-001059;región F;Falta Servicio;2018-09-01
+AFG-000008;región D;Facturación;2018-09-01
+AFG-003216;región C;Falta Servicio;2018-09-02
+AFG-002479;región A;No reconoce producto;2018-02-09
+AFG-001929;región F;Facturación;2018-02-09
+AFG-003062;región C;Cambio de Producto;2018-09-03
+AFG-001517;región B;Falta Servicio;2018-09-03
+AFG-000439;región A;Facturación;2018-09-03
+AFG-002722;región E;Cambio de Producto;2018-09-04
+AFG-000715;región C;Falta Servicio;2018-09-04
+AFG-000490;región F;Facturación;2018-09-04
+AFG-003234;región D;Falta Servicio;2018-09-05
+AFG-002914;región B;Falta Servicio;2018-09-05
+AFG-002555;región E;Facturación;2018-05-09
+AFG-002795;región A;Actualiza datos;2018-09-06
+AFG-002428;región E;Facturación;2018-06-09
+AFG-001783;región D;Falta Servicio;2018-09-06
+AFG-002085;región E;Falta Servicio;2018-07-09
+AFG-001351;región A;Facturación;2018-09-07
+AFG-000820;región D;Instalación pendiente;2018-09-07
+AFG-002450;región E;Falta Servicio;2018-08-09
+AFG-001925;región D;Falta Servicio;2018-08-09
+AFG-000449;región C;Facturación;2018-09-08
+AFG-002589;región A;Falta Servicio;2018-09-09
+AFG-002568;región F;Facturación;2018-09-09
+AFG-000291;región D;Falta Servicio;2018-09-09
+AFG-002570;región D;Actualiza datos;2018-10-09
+AFG-002146;región A;Facturación;2018-10-09
+AFG-000865;región B;Falta Servicio;2018-09-10
+AFG-001551;región F;Facturación;2018-09-11
+AFG-000092;región E;Facturación;2018-09-11
+AFG-000027;región B;Actualiza datos;2018-09-11
+AFG-003068;región E;Falta Servicio;2018-09-12
+AFG-002459;región F;Facturación;2018-12-09
+AFG-000364;región A;Instalación pendiente;2018-09-12
+AFG-002241;región C;Actualiza datos;2018-09-13
+AFG-001902;región D;Actualiza datos;2018-09-13
+AFG-000927;región B;Facturación;2018-09-13
+AFG-002740;región E;Falta Servicio;2018-09-14
+AFG-000534;región C;Facturación;2018-09-14
+AFG-000006;región D;Cambio de Producto;2018-09-14
+AFG-000845;región C;Facturación;2018-09-15
+AFG-000676;región E;Falta Servicio;2018-09-15
+AFG-000388;región B;Falta Servicio;2018-09-15
+AFG-003287;región C;Actualiza datos;2018-09-16
+AFG-002477;región A;Instalación pendiente;2018-09-16
+AFG-001149;región D;Instalación pendiente;2018-09-16
+AFG-001018;región B;No reconoce producto;2018-09-17
+AFG-000651;región F;Cambio de Producto;2018-09-17
+AFG-000403;región A;Facturación;2018-09-17
+AFG-002898;región F;Actualiza datos;2018-09-18
+AFG-002696;región C;Falta Servicio;2018-09-18
+AFG-000481;región D;Falta Servicio;2018-09-18
+AFG-001813;región E;Facturación;2018-09-19
+AFG-001384;región B;Facturación;2018-09-19
+AFG-000719;región D;Facturación;2018-09-19
+AFG-003236;región C;No reconoce producto;2018-09-20
+AFG-002941;región B;Falta Servicio;2018-09-20
+AFG-002775;región A;Falta Servicio;2018-09-20
+AFG-003269;región B;Falta Servicio;2018-09-21
+AFG-002138;región A;Falta Servicio;2018-09-21
+AFG-002040;región C;Falta Servicio;2018-09-21
+AFG-001836;región D;No reconoce producto;2018-09-22
+AFG-001758;región C;Falta Servicio;2018-09-22
+AFG-001069;región E;Facturación;2018-09-22
+AFG-002104;región C;Instalación pendiente;2018-09-23
+AFG-000758;región F;Falta Servicio;2018-09-23
+AFG-000025;región E;Instalación pendiente;2018-09-23
+AFG-003123;región E;Facturación;2018-09-24
+AFG-002511;región F;No reconoce producto;2018-09-24
+AFG-002334;región A;Facturación;2018-09-24
+AFG-003078;región A;Falta Servicio;2018-09-25
+AFG-001417;región F;Facturación;2018-09-25
+AFG-000044;región B;Facturación;2018-09-25
+AFG-002984;región B;Facturación;2018-09-26
+AFG-002256;región A;Falta Servicio;2018-09-26
+AFG-001681;región D;Falta Servicio;2018-09-26
+AFG-001314;región F;Falta Servicio;2018-09-27
+AFG-000440;región A;Facturación;2018-09-27
+AFG-000009;región C;Facturación;2018-09-27
+AFG-002516;región D;Falta Servicio;2018-09-28
+AFG-001165;región A;Falta Servicio;2018-09-28
+AFG-000042;región C;Instalación pendiente;2018-09-28
+AFG-002764;región E;Facturación;2018-09-29
+AFG-002501;región A;Facturación;2018-09-29
+AFG-001272;región D;Falta Servicio;2018-09-29
+AFG-001472;región E;No reconoce producto;2018-09-30
+AFG-000951;región D;Facturación;2018-09-30
+AFG-000854;región C;Facturación;2018-09-30
+AFG-003204;región D;Instalación pendiente;2018-10-01
+AFG-001152;región A;Actualiza datos;2018-10-01
+AFG-000199;región C;Facturación;2018-10-01
+AFG-003221;región C;Instalación pendiente;2018-10-02
+AFG-003061;región B;Falta Servicio;2018-10-02
+AFG-000005;región A;Facturación;2018-10-02
+AFG-003183;región A;Falta Servicio;2018-10-03
+AFG-002399;región E;Instalación pendiente;2018-03-10
+AFG-001986;región F;Facturación;2018-03-10
+AFG-001333;región C;Falta Servicio;2018-10-04
+AFG-001167;región D;Falta Servicio;2018-10-04
+AFG-000216;región E;Falta Servicio;2018-10-04
+AFG-003050;región F;Falta Servicio;2018-10-05
+AFG-002586;región C;Falta Servicio;2018-05-10
+AFG-002565;región E;Facturación;2018-05-10
+AFG-002385;región E;Falta Servicio;2018-06-10
+AFG-000978;región A;Falta Servicio;2018-10-06
+AFG-000096;región F;Falta Servicio;2018-10-06
+AFG-003247;región E;Facturación;2018-10-07
+AFG-002927;región F;Falta Servicio;2018-10-07
+AFG-000765;región C;Falta Servicio;2018-10-07
+AFG-002159;región E;Falta Servicio;2018-08-10
+AFG-001984;región D;Falta Servicio;2018-08-10
+AFG-001835;región F;Falta Servicio;2018-10-08
+AFG-002467;región E;Falta Servicio;2018-09-10
+AFG-001777;región A;Falta Servicio;2018-10-09
+AFG-000509;región B;Falta Servicio;2018-10-09
+AFG-002681;región D;Facturación;2018-10-10
+AFG-002638;región B;No reconoce producto;2018-10-10
+AFG-002601;región C;Facturación;2018-10-10
+AFG-003195;región D;No reconoce producto;2018-10-11
+AFG-001749;región C;Cambio de Producto;2018-10-11
+AFG-001091;región B;Falta Servicio;2018-10-11
+AFG-002907;región D;Instalación pendiente;2018-10-12
+AFG-002440;región B;Facturación;2018-12-10
+AFG-001227;región C;Falta Servicio;2018-10-12
+AFG-001349;región A;Cambio de Producto;2018-10-13
+AFG-001011;región F;Falta Servicio;2018-10-13
+AFG-000285;región B;Cambio de Producto;2018-10-13
+AFG-002962;región D;Cambio de Producto;2018-10-14
+AFG-001047;región C;Facturación;2018-10-14
+AFG-000046;región E;Facturación;2018-10-14
+AFG-002239;región E;Falta Servicio;2018-10-15
+AFG-001927;región A;Facturación;2018-10-15
+AFG-001653;región F;Facturación;2018-10-15
+AFG-003253;región F;Facturación;2018-10-16
+AFG-003225;región A;Falta Servicio;2018-10-16
+AFG-000116;región C;Facturación;2018-10-16
+AFG-002690;región C;Facturación;2018-10-17
+AFG-001852;región B;Falta Servicio;2018-10-17
+AFG-001238;región A;Falta Servicio;2018-10-17
+AFG-002088;región B;Falta Servicio;2018-10-18
+AFG-000555;región E;Falta Servicio;2018-10-18
+AFG-000346;región D;Falta Servicio;2018-10-18
+AFG-002390;región C;Falta Servicio;2018-10-19
+AFG-000680;región D;Facturación;2018-10-19
+AFG-000125;región B;Facturación;2018-10-19
+AFG-003256;región F;Facturación;2018-10-20
+AFG-002854;región B;Actualiza datos;2018-10-20
+AFG-000899;región A;Facturación;2018-10-20
+AFG-003037;región A;Facturación;2018-10-21
+AFG-001722;región C;Falta Servicio;2018-10-21
+AFG-000214;región B;Facturación;2018-10-21
+AFG-003028;región C;Falta Servicio;2018-10-22
+AFG-001772;región E;No reconoce producto;2018-10-22
+AFG-001063;región D;Falta Servicio;2018-10-22
+AFG-002982;región F;Falta Servicio;2018-10-23
+AFG-002404;región B;Falta Servicio;2018-10-23
+AFG-000772;región A;Falta Servicio;2018-10-23
+AFG-002916;región A;Falta Servicio;2018-10-24
+AFG-002773;región F;Falta Servicio;2018-10-24
+AFG-001311;región B;Facturación;2018-10-24
+AFG-002136;región A;Falta Servicio;2018-10-25
+AFG-001637;región B;Falta Servicio;2018-10-25
+AFG-000692;región C;Instalación pendiente;2018-10-25
+AFG-002865;región E;Falta Servicio;2018-10-26
+AFG-002189;región A;Falta Servicio;2018-10-26
+AFG-000605;región B;No reconoce producto;2018-10-26
+AFG-003273;región E;No reconoce producto;2018-10-27
+AFG-003067;región B;Cambio de Producto;2018-10-27
+AFG-002615;región D;Facturación;2018-10-27
+AFG-002745;región B;Cambio de Producto;2018-10-28
+AFG-001651;región A;Cambio de Producto;2018-10-28
+AFG-000787;región F;No reconoce producto;2018-10-28
+AFG-002672;región A;Falta Servicio;2018-10-29
+AFG-001894;región D;Facturación;2018-10-29
+AFG-000532;región E;Actualiza datos;2018-10-29
+AFG-001648;región A;Instalación pendiente;2018-10-30
+AFG-001602;región F;Actualiza datos;2018-10-30
+AFG-000462;región D;No reconoce producto;2018-10-30
+AFG-001732;región F;Facturación;2018-10-31
+AFG-000574;región E;Actualiza datos;2018-10-31
+AFG-000474;región A;Facturación;2018-10-31
+AFG-002237;región A;Cambio de Producto;2018-01-11
+AFG-001887;región B;Falta Servicio;2018-01-11
+AFG-000539;región C;Facturación;2018-11-01
+AFG-002761;región B;Facturación;2018-11-02
+AFG-002184;región A;Facturación;2018-02-11
+AFG-001164;región C;No reconoce producto;2018-11-02
+AFG-002903;región A;Facturación;2018-11-03
+AFG-001768;región D;Falta Servicio;2018-11-03
+AFG-001290;región F;Facturación;2018-11-03
+AFG-001622;región A;Facturación;2018-11-04
+AFG-001332;región F;Falta Servicio;2018-11-04
+AFG-001268;región E;Facturación;2018-11-04
+AFG-001118;región C;Cambio de Producto;2018-11-05
+AFG-000759;región D;Cambio de Producto;2018-11-05
+AFG-000160;región E;Falta Servicio;2018-11-05
+AFG-002623;región E;No reconoce producto;2018-11-06
+AFG-001709;región C;No reconoce producto;2018-11-06
+AFG-000101;región D;Facturación;2018-11-06
+AFG-002155;región E;Facturación;2018-07-11
+AFG-001610;región A;Falta Servicio;2018-11-07
+AFG-000008;región B;Facturación;2018-11-07
+AFG-002811;región C;Facturación;2018-11-08
+AFG-002746;región A;Actualiza datos;2018-11-08
+AFG-000469;región B;Falta Servicio;2018-11-08
+AFG-002732;región B;Cambio de Producto;2018-11-09
+AFG-002474;región A;Cambio de Producto;2018-09-11
+AFG-001021;región C;No reconoce producto;2018-11-09
+AFG-002626;región C;Falta Servicio;2018-11-10
+AFG-002282;región D;Facturación;2018-10-11
+AFG-000270;región E;Instalación pendiente;2018-11-10
+AFG-003039;región F;Falta Servicio;2018-11-11
+AFG-002752;región D;Facturación;2018-11-11
+AFG-002149;región E;No reconoce producto;2018-11-11
+AFG-003302;región C;Facturación;2018-11-12
+AFG-001055;región B;Falta Servicio;2018-11-12
+AFG-000808;región F;Facturación;2018-11-12
+AFG-000880;región B;Falta Servicio;2018-11-13
+AFG-000472;región C;Cambio de Producto;2018-11-13
+AFG-000334;región E;No reconoce producto;2018-11-13
+AFG-001993;región E;Instalación pendiente;2018-11-14
+AFG-001781;región D;Facturación;2018-11-14
+AFG-000282;región F;Facturación;2018-11-14
+AFG-002349;región C;Facturación;2018-11-15
+AFG-002271;región B;Facturación;2018-11-15
+AFG-001889;región F;Actualiza datos;2018-11-15
+AFG-002951;región C;Falta Servicio;2018-11-16
+AFG-002614;región B;No reconoce producto;2018-11-16
+AFG-002573;región A;Actualiza datos;2018-11-16
+AFG-003296;región A;Falta Servicio;2018-11-17
+AFG-002937;región F;Cambio de Producto;2018-11-17
+AFG-001051;región B;Falta Servicio;2018-11-17
+AFG-002367;región F;Facturación;2018-11-18
+AFG-000912;región B;Falta Servicio;2018-11-18
+AFG-000707;región A;Cambio de Producto;2018-11-18
+AFG-002226;región B;Facturación;2018-11-19
+AFG-001815;región F;No reconoce producto;2018-11-19
+AFG-000690;región E;Falta Servicio;2018-11-19
+AFG-002654;región E;Cambio de Producto;2018-11-20
+AFG-001436;región B;Falta Servicio;2018-11-20
+AFG-000848;región D;Facturación;2018-11-20
+AFG-001985;región D;Facturación;2018-11-21
+AFG-001341;región A;Facturación;2018-11-21
+AFG-000031;región B;Facturación;2018-11-21
+AFG-002943;región C;Falta Servicio;2018-11-22
+AFG-002089;región D;Facturación;2018-11-22
+AFG-000579;región B;Cambio de Producto;2018-11-22
+AFG-002018;región F;Falta Servicio;2018-11-23
+AFG-001738;región C;Facturación;2018-11-23
+AFG-000163;región E;Cambio de Producto;2018-11-23
+AFG-002873;región F;Cambio de Producto;2018-11-24
+AFG-001978;región E;Facturación;2018-11-24
+AFG-001657;región D;Instalación pendiente;2018-11-24
+AFG-001403;región B;Cambio de Producto;2018-11-25
+AFG-000371;región C;Facturación;2018-11-25
+AFG-000029;región D;Cambio de Producto;2018-11-25
+AFG-001024;región A;Falta Servicio;2018-11-26
+AFG-000219;región D;Falta Servicio;2018-11-26
+AFG-000180;región B;Falta Servicio;2018-11-26
+AFG-001344;región D;Falta Servicio;2018-11-27
+AFG-001064;región F;Facturación;2018-11-27
+AFG-000731;región C;Falta Servicio;2018-11-27
+AFG-003215;región A;Cambio de Producto;2018-11-28
+AFG-001817;región E;Facturación;2018-11-28
+AFG-000645;región D;Instalación pendiente;2018-11-28
+AFG-002651;región C;Facturación;2018-11-29
+AFG-000602;región A;Falta Servicio;2018-11-29
+AFG-000140;región B;Falta Servicio;2018-11-29
+AFG-001667;región E;Facturación;2018-11-30
+AFG-001148;región C;Cambio de Producto;2018-11-30
+AFG-000712;región D;No reconoce producto;2018-11-30
+AFG-002967;región A;Facturación;2018-12-01
+AFG-002117;región B;Facturación;2018-01-12
+AFG-001605;región C;Facturación;2018-12-01
+AFG-002876;región B;Facturación;2018-12-02
+AFG-000634;región D;Falta Servicio;2018-12-02
+AFG-000435;región A;Facturación;2018-12-02
+AFG-002870;región F;Facturación;2018-12-03
+AFG-002001;región D;Falta Servicio;2018-03-12
+AFG-000988;región E;Instalación pendiente;2018-12-03
+AFG-002552;región A;Instalación pendiente;2018-04-12
+AFG-002066;región B;Instalación pendiente;2018-04-12
+AFG-000906;región E;Instalación pendiente;2018-12-04
+AFG-002496;región F;Facturación;2018-05-12
+AFG-002397;región B;Cambio de Producto;2018-05-12
+AFG-001355;región A;Cambio de Producto;2018-12-05
+AFG-002535;región A;Falta Servicio;2018-06-12
+AFG-001953;región D;Facturación;2018-06-12
+AFG-001588;región F;No reconoce producto;2018-12-06
+AFG-002961;región C;Falta Servicio;2018-12-07
+AFG-001270;región D;No reconoce producto;2018-12-07
+AFG-000137;región B;Instalación pendiente;2018-12-07
+AFG-002770;región D;Falta Servicio;2018-12-08
+AFG-001282;región B;Cambio de Producto;2018-12-08
+AFG-001062;región E;Instalación pendiente;2018-12-08
+AFG-001954;región D;Facturación;2018-09-12
+AFG-001107;región B;Falta Servicio;2018-12-09
+AFG-000222;región E;Facturación;2018-12-09
+AFG-003297;región A;Facturación;2018-12-10
+AFG-002688;región B;Facturación;2018-12-10
+AFG-001103;región F;Facturación;2018-12-10
+AFG-002542;región B;Facturación;2018-11-12
+AFG-001585;región C;Falta Servicio;2018-12-11
+AFG-000706;región E;Facturación;2018-12-11
+AFG-000891;región B;Falta Servicio;2018-12-12
+AFG-000610;región A;No reconoce producto;2018-12-12
+AFG-000144;región C;Facturación;2018-12-12
+AFG-002602;región B;Facturación;2018-12-13
+AFG-000943;región F;Actualiza datos;2018-12-13
+AFG-000283;región C;No reconoce producto;2018-12-13
+AFG-002481;región A;Facturación;2018-12-14
+AFG-001744;región B;Facturación;2018-12-14
+AFG-000563;región C;Falta Servicio;2018-12-14
+AFG-001520;región F;Facturación;2018-12-15
+AFG-001431;región E;Cambio de Producto;2018-12-15
+AFG-001367;región D;Falta Servicio;2018-12-15
+AFG-002019;región C;Actualiza datos;2018-12-16
+AFG-001346;región E;Facturación;2018-12-16
+AFG-000063;región D;Facturación;2018-12-16
+AFG-002989;región C;Facturación;2018-12-17
+AFG-001320;región A;Falta Servicio;2018-12-17
+AFG-000508;región D;Facturación;2018-12-17
+AFG-002891;región E;Facturación;2018-12-18
+AFG-001797;región C;Facturación;2018-12-18
+AFG-000032;región D;Falta Servicio;2018-12-18
+AFG-002465;región E;Facturación;2018-12-19
+AFG-001471;región A;Falta Servicio;2018-12-19
+AFG-000148;región F;Falta Servicio;2018-12-19
+AFG-003011;región D;Falta Servicio;2018-12-20
+AFG-001489;región C;Cambio de Producto;2018-12-20
+AFG-000946;región E;Facturación;2018-12-20
+AFG-002031;región F;Falta Servicio;2018-12-21
+AFG-001263;región D;Facturación;2018-12-21
+AFG-000997;región E;Cambio de Producto;2018-12-21
+AFG-002008;región E;Facturación;2018-12-22
+AFG-001654;región A;Facturación;2018-12-22
+AFG-000017;región B;Facturación;2018-12-22
+AFG-002214;región F;Falta Servicio;2018-12-23
+AFG-001741;región C;Facturación;2018-12-23
+AFG-000663;región A;Facturación;2018-12-23
+AFG-001362;región F;Falta Servicio;2018-12-24
+AFG-000112;región E;Instalación pendiente;2018-12-24
+AFG-000045;región D;Actualiza datos;2018-12-24
+AFG-003124;región A;Instalación pendiente;2018-12-25
+AFG-002200;región D;Falta Servicio;2018-12-25
+AFG-000024;región B;Falta Servicio;2018-12-25
+AFG-002251;región F;Cambio de Producto;2018-12-26
+AFG-001525;región E;Facturación;2018-12-26
+AFG-000587;región A;Instalación pendiente;2018-12-26
+AFG-002033;región B;Falta Servicio;2018-12-27
+AFG-000751;región F;Facturación;2018-12-27
+AFG-000189;región A;Falta Servicio;2018-12-27
+AFG-003212;región C;Facturación;2018-12-28
+AFG-002309;región F;Facturación;2018-12-28
+AFG-000821;región A;Falta Servicio;2018-12-28
+AFG-002897;región F;Facturación;2018-12-29
+AFG-002717;región D;Facturación;2018-12-29
+AFG-000888;región C;Facturación;2018-12-29
+AFG-002710;región C;Facturación;2018-12-30
+AFG-002024;región E;Falta Servicio;2018-12-30
+AFG-000099;región F;Facturación;2018-12-30
+AFG-001246;región B;Facturación;2018-12-31
+AFG-001126;región A;Facturación;2018-12-31
+AFG-000020;región D;Falta Servicio;2018-12-31
+AFG-002534;región B;Facturación;2019-01-01
+AFG-001705;región C;Instalación pendiente;2019-01-01
+AFG-000349;región D;Falta Servicio;2019-01-01
+AFG-002861;región E;No reconoce producto;2019-01-02
+AFG-002561;región F;Actualiza datos;2019-02-01
+AFG-000884;región A;Falta Servicio;2019-01-02
+AFG-002470;región B;No reconoce producto;2019-03-01
+AFG-002211;región C;Falta Servicio;2019-03-01
+AFG-000016;región A;Facturación;2019-01-03
+AFG-003235;región D;Facturación;2019-01-04
+AFG-002867;región A;Facturación;2019-01-04
+AFG-001810;región C;Facturación;2019-01-04
+AFG-002814;región E;Facturación;2019-01-05
+AFG-000669;región A;Falta Servicio;2019-01-05
+AFG-000597;región F;Facturación;2019-01-05
+AFG-002886;región E;No reconoce producto;2019-01-06
+AFG-002833;región F;Falta Servicio;2019-01-06
+AFG-002111;región D;Falta Servicio;2019-06-01
+AFG-003027;región B;Falta Servicio;2019-01-07
+AFG-001526;región F;Facturación;2019-01-07
+AFG-000145;región A;Falta Servicio;2019-01-07
+AFG-003198;región A;Facturación;2019-01-08
+AFG-003164;región C;Falta Servicio;2019-01-08
+AFG-003032;región F;Falta Servicio;2019-01-08
+AFG-001912;región A;No reconoce producto;2019-09-01
+AFG-001547;región C;Falta Servicio;2019-01-09
+AFG-000632;región D;Facturación;2019-01-09
+AFG-003200;región C;Facturación;2019-01-10
+AFG-001516;región D;Falta Servicio;2019-01-10
+AFG-001160;región A;Facturación;2019-01-10
+AFG-002607;región D;Cambio de Producto;2019-11-01
+AFG-001483;región E;Falta Servicio;2019-01-11
+AFG-001204;región F;Falta Servicio;2019-01-11
+AFG-002201;región E;No reconoce producto;2019-12-01
+AFG-000400;región A;No reconoce producto;2019-01-12
+AFG-000049;región F;Cambio de Producto;2019-01-12
+AFG-002923;región F;Falta Servicio;2019-01-13
+AFG-002342;región E;Facturación;2019-01-13
+AFG-000910;región D;Falta Servicio;2019-01-13
+AFG-002571;región F;Falta Servicio;2019-01-14
+AFG-001477;región C;Falta Servicio;2019-01-14
+AFG-000696;región E;Cambio de Producto;2019-01-14
+AFG-002522;región D;Falta Servicio;2019-01-15
+AFG-001833;región F;Facturación;2019-01-15
+AFG-000582;región A;No reconoce producto;2019-01-15
+AFG-002703;región E;Falta Servicio;2019-01-16
+AFG-000952;región D;Cambio de Producto;2019-01-16
+AFG-000810;región C;Facturación;2019-01-16
+AFG-002224;región E;Instalación pendiente;2019-01-17
+AFG-001553;región F;Falta Servicio;2019-01-17
+AFG-000925;región D;Falta Servicio;2019-01-17
+AFG-002679;región F;Falta Servicio;2019-01-18
+AFG-001073;región B;Falta Servicio;2019-01-18
+AFG-000326;región A;Falta Servicio;2019-01-18
+AFG-002724;región B;Falta Servicio;2019-01-19
+AFG-002188;región D;Facturación;2019-01-19
+AFG-000702;región A;Falta Servicio;2019-01-19
+AFG-003174;región C;Facturación;2019-01-20
+AFG-001510;región D;Facturación;2019-01-20
+AFG-001295;región B;Facturación;2019-01-20
+AFG-002530;región E;Falta Servicio;2019-01-21
+AFG-000726;región C;Falta Servicio;2019-01-21
+AFG-000476;región D;No reconoce producto;2019-01-21
+AFG-002742;región D;No reconoce producto;2019-01-22
+AFG-001240;región C;Actualiza datos;2019-01-22
+AFG-001138;región B;Facturación;2019-01-22
+AFG-001687;región C;Cambio de Producto;2019-01-23
+AFG-000351;región E;Falta Servicio;2019-01-23
+AFG-000318;región B;Facturación;2019-01-23
+AFG-002164;región E;Cambio de Producto;2019-01-24
+AFG-002087;región C;Facturación;2019-01-24
+AFG-000260;región D;No reconoce producto;2019-01-24
+AFG-002081;región F;Facturación;2019-01-25
+AFG-001913;región D;Falta Servicio;2019-01-25
+AFG-001736;región E;Cambio de Producto;2019-01-25
+AFG-003053;región E;Falta Servicio;2019-01-26
+AFG-002243;región B;Falta Servicio;2019-01-26
+AFG-001463;región D;Facturación;2019-01-26
+AFG-002304;región B;No reconoce producto;2019-01-27
+AFG-001168;región F;No reconoce producto;2019-01-27
+AFG-001141;región A;Facturación;2019-01-27
+AFG-002351;región E;No reconoce producto;2019-01-28
+AFG-001113;región A;Falta Servicio;2019-01-28
+AFG-000915;región F;Falta Servicio;2019-01-28
+AFG-002257;región B;Falta Servicio;2019-01-29
+AFG-000797;región A;Facturación;2019-01-29
+AFG-000609;región C;Facturación;2019-01-29
+AFG-002168;región A;Falta Servicio;2019-01-30
+AFG-000861;región E;No reconoce producto;2019-01-30
+AFG-000830;región F;Actualiza datos;2019-01-30
+AFG-003186;región A;Falta Servicio;2019-01-31
+AFG-002550;región B;Falta Servicio;2019-01-31
+AFG-000353;región F;Cambio de Producto;2019-01-31
+AFG-002122;región B;Falta Servicio;2019-01-02
+AFG-000805;región D;Facturación;2019-02-01
+AFG-000428;región E;Falta Servicio;2019-02-01
+AFG-001398;región B;Facturación;2019-02-02
+AFG-001244;región A;Instalación pendiente;2019-02-02
+AFG-000183;región F;No reconoce producto;2019-02-02
+AFG-002132;región D;Instalación pendiente;2019-03-02
+AFG-001826;región E;Falta Servicio;2019-02-03
+AFG-000107;región C;Falta Servicio;2019-02-03
+AFG-002523;región F;Falta Servicio;2019-04-02
+AFG-002124;región B;Falta Servicio;2019-04-02
+AFG-000887;región A;Facturación;2019-02-04
+AFG-003199;región A;Facturación;2019-02-05
+AFG-002213;región C;Facturación;2019-05-02
+AFG-001895;región D;Falta Servicio;2019-05-02
+AFG-003163;región A;Instalación pendiente;2019-02-06
+AFG-002536;región D;Facturación;2019-06-02
+AFG-000022;región F;Facturación;2019-02-06
+AFG-001943;región F;No reconoce producto;2019-07-02
+AFG-000208;región B;Falta Servicio;2019-02-07
+AFG-000100;región A;Facturación;2019-02-07
+AFG-002113;región E;Falta Servicio;2019-08-02
+AFG-002110;región F;No reconoce producto;2019-08-02
+AFG-000746;región B;Facturación;2019-02-08
+AFG-003177;región C;Cambio de Producto;2019-02-09
+AFG-000799;región B;Actualiza datos;2019-02-09
+AFG-000761;región D;Cambio de Producto;2019-02-09
+AFG-003019;región A;Instalación pendiente;2019-02-10
+AFG-001491;región F;Falta Servicio;2019-02-10
+AFG-000687;región E;Actualiza datos;2019-02-10
+AFG-003112;región F;Facturación;2019-02-11
+AFG-002341;región E;Facturación;2019-11-02
+AFG-001720;región B;Falta Servicio;2019-02-11
+AFG-003113;región E;Facturación;2019-02-12
+AFG-003029;región D;Facturación;2019-02-12
+AFG-002825;región F;Falta Servicio;2019-02-12
+AFG-002779;región A;Instalación pendiente;2019-02-13
+AFG-001186;región B;Facturación;2019-02-13
+AFG-000566;región F;Falta Servicio;2019-02-13
+AFG-001924;región E;Facturación;2019-02-14
+AFG-001292;región F;Facturación;2019-02-14
+AFG-000206;región B;Actualiza datos;2019-02-14
+AFG-002883;región B;Falta Servicio;2019-02-15
+AFG-001843;región C;Cambio de Producto;2019-02-15
+AFG-001213;región E;Falta Servicio;2019-02-15
+AFG-002055;región A;Falta Servicio;2019-02-16
+AFG-001928;región C;Falta Servicio;2019-02-16
+AFG-000760;región B;Falta Servicio;2019-02-16
+AFG-002454;región C;No reconoce producto;2019-02-17
+AFG-000815;región F;Falta Servicio;2019-02-17
+AFG-000090;región B;Instalación pendiente;2019-02-17
+AFG-002436;región B;Falta Servicio;2019-02-18
+AFG-001952;región C;Facturación;2019-02-18
+AFG-000503;región A;Falta Servicio;2019-02-18
+AFG-001506;región D;Facturación;2019-02-19
+AFG-001050;región F;Actualiza datos;2019-02-19
+AFG-000167;región E;Instalación pendiente;2019-02-19
+AFG-002641;región F;Facturación;2019-02-20
+AFG-001706;región E;Facturación;2019-02-20
+AFG-000438;región C;Falta Servicio;2019-02-20
+AFG-003170;región B;Falta Servicio;2019-02-21
+AFG-002485;región F;Falta Servicio;2019-02-21
+AFG-000450;región A;Actualiza datos;2019-02-21
+AFG-003244;región A;Facturación;2019-02-22
+AFG-002240;región B;Falta Servicio;2019-02-22
+AFG-000819;región F;Falta Servicio;2019-02-22
+AFG-003194;región B;Falta Servicio;2019-02-23
+AFG-002539;región C;Falta Servicio;2019-02-23
+AFG-001542;región F;Facturación;2019-02-23
+AFG-003102;región A;Facturación;2019-02-24
+AFG-002205;región D;Instalación pendiente;2019-02-24
+AFG-000352;región F;Facturación;2019-02-24
+AFG-003307;región E;Falta Servicio;2019-02-25
+AFG-000736;región F;Falta Servicio;2019-02-25
+AFG-000093;región D;Instalación pendiente;2019-02-25
+AFG-002796;región A;Facturación;2019-02-26
+AFG-001877;región F;No reconoce producto;2019-02-26
+AFG-001801;región C;Falta Servicio;2019-02-26
+AFG-002302;región E;Facturación;2019-02-27
+AFG-000873;región D;No reconoce producto;2019-02-27
+AFG-000458;región A;Falta Servicio;2019-02-27
+AFG-001334;región A;Falta Servicio;2019-02-28
+AFG-000903;región B;Falta Servicio;2019-02-28
+AFG-000709;región D;Falta Servicio;2019-02-28
+AFG-001357;región B;Falta Servicio;2019-03-01
+AFG-000867;región D;Instalación pendiente;2019-03-01
+AFG-000025;región A;Falta Servicio;2019-03-01
+AFG-000868;región E;Actualiza datos;2019-03-02
+AFG-000737;región F;Instalación pendiente;2019-03-02
+AFG-000085;región B;Falta Servicio;2019-03-02
+AFG-003290;región F;Falta Servicio;2019-03-03
+AFG-002125;región A;Falta Servicio;2019-03-03
+AFG-001424;región E;Facturación;2019-03-03
+AFG-001604;región B;Facturación;2019-03-04
+AFG-000074;región E;Falta Servicio;2019-03-04
+AFG-000001;región C;Facturación;2019-03-04
+AFG-003013;región E;Falta Servicio;2019-03-05
+AFG-002325;región F;Cambio de Producto;2019-05-03
+AFG-001343;región B;Facturación;2019-03-05
+AFG-002700;región A;Cambio de Producto;2019-03-06
+AFG-002005;región C;Facturación;2019-06-03
+AFG-001015;región D;Falta Servicio;2019-03-06
+AFG-002711;región F;Cambio de Producto;2019-03-07
+AFG-002260;región B;Falta Servicio;2019-07-03
+AFG-000937;región E;No reconoce producto;2019-03-07
+AFG-002022;región A;Falta Servicio;2019-08-03
+AFG-001688;región E;Facturación;2019-03-08
+AFG-001053;región B;Facturación;2019-03-08
+AFG-002527;región C;Facturación;2019-09-03
+AFG-001854;región D;Actualiza datos;2019-03-09
+AFG-000717;región F;Facturación;2019-03-09
+AFG-003279;región A;Cambio de Producto;2019-03-10
+AFG-002628;región F;Facturación;2019-03-10
+AFG-002242;región E;Actualiza datos;2019-10-03
+AFG-001908;región A;Actualiza datos;2019-11-03
+AFG-000446;región E;Facturación;2019-03-11
+AFG-000146;región D;Facturación;2019-03-11
+AFG-003004;región A;Facturación;2019-03-12
+AFG-002305;región E;Falta Servicio;2019-12-03
+AFG-002179;región B;Facturación;2019-12-03
+AFG-002632;región C;Facturación;2019-03-13
+AFG-001785;región B;Falta Servicio;2019-03-13
+AFG-001304;región A;Falta Servicio;2019-03-13
+AFG-002416;región B;No reconoce producto;2019-03-14
+AFG-002238;región F;Facturación;2019-03-14
+AFG-002170;región A;Actualiza datos;2019-03-14
+AFG-003025;región D;Facturación;2019-03-15
+AFG-001207;región C;Facturación;2019-03-15
+AFG-000174;región F;Instalación pendiente;2019-03-15
+AFG-002193;región A;Actualiza datos;2019-03-16
+AFG-002059;región C;Falta Servicio;2019-03-16
+AFG-000196;región B;Falta Servicio;2019-03-16
+AFG-001217;región B;Facturación;2019-03-17
+AFG-000482;región D;Falta Servicio;2019-03-17
+AFG-000050;región A;Falta Servicio;2019-03-17
+AFG-002294;región A;Facturación;2019-03-18
+AFG-001680;región F;Falta Servicio;2019-03-18
+AFG-000478;región E;Falta Servicio;2019-03-18
+AFG-002584;región A;Facturación;2019-03-19
+AFG-001566;región B;Facturación;2019-03-19
+AFG-001076;región F;Facturación;2019-03-19
+AFG-002056;región D;Falta Servicio;2019-03-20
+AFG-001733;región E;Actualiza datos;2019-03-20
+AFG-000455;región C;Instalación pendiente;2019-03-20
+AFG-001201;región D;Cambio de Producto;2019-03-21
+AFG-000827;región E;Facturación;2019-03-21
+AFG-000554;región C;Facturación;2019-03-21
+AFG-002039;región D;Facturación;2019-03-22
+AFG-001582;región B;Facturación;2019-03-22
+AFG-000301;región C;Falta Servicio;2019-03-22
+AFG-002310;región A;Falta Servicio;2019-03-23
+AFG-001591;región D;Falta Servicio;2019-03-23
+AFG-001453;región C;Facturación;2019-03-23
+AFG-002650;región A;Falta Servicio;2019-03-24
+AFG-001832;región D;Falta Servicio;2019-03-24
+AFG-000734;región E;Facturación;2019-03-24
+AFG-003280;región A;Falta Servicio;2019-03-25
+AFG-001308;región F;Facturación;2019-03-25
+AFG-001121;región C;Facturación;2019-03-25
+AFG-003071;región E;Facturación;2019-03-26
+AFG-002662;región C;Instalación pendiente;2019-03-26
+AFG-001408;región B;Facturación;2019-03-26
+AFG-002262;región D;Facturación;2019-03-27
+AFG-000682;región C;Actualiza datos;2019-03-27
+AFG-000456;región A;Cambio de Producto;2019-03-27
+AFG-003136;región E;Falta Servicio;2019-03-28
+AFG-001537;región A;Falta Servicio;2019-03-28
+AFG-000648;región F;Instalación pendiente;2019-03-28
+AFG-003241;región F;Instalación pendiente;2019-03-29
+AFG-002333;región C;No reconoce producto;2019-03-29
+AFG-001001;región E;Falta Servicio;2019-03-29
+AFG-003054;región F;Facturación;2019-03-30
+AFG-002327;región A;Instalación pendiente;2019-03-30
+AFG-000138;región B;Instalación pendiente;2019-03-30
+AFG-003209;región C;Falta Servicio;2019-03-31
+AFG-002438;región F;Facturación;2019-03-31
+AFG-000693;región E;Falta Servicio;2019-03-31
+AFG-002970;región F;Actualiza datos;2019-04-01
+AFG-002896;región E;Facturación;2019-04-01
+AFG-002827;región D;Falta Servicio;2019-04-01
+AFG-001631;región D;Actualiza datos;2019-04-02
+AFG-001105;región E;Facturación;2019-04-02
+AFG-000209;región A;Cambio de Producto;2019-04-02
+AFG-002617;región D;Falta Servicio;2019-04-03
+AFG-002265;región C;Facturación;2019-03-04
+AFG-000276;región F;Facturación;2019-04-03
+AFG-002449;región F;Facturación;2019-04-04
+AFG-001947;región A;Facturación;2019-04-04
+AFG-001774;región B;Facturación;2019-04-04
+AFG-003240;región B;Facturación;2019-04-05
+AFG-001372;región C;Facturación;2019-04-05
+AFG-000779;región A;Instalación pendiente;2019-04-05
+AFG-002656;región F;Facturación;2019-04-06
+AFG-000565;región D;No reconoce producto;2019-04-06
+AFG-000126;región C;Facturación;2019-04-06
+AFG-002755;región F;Actualiza datos;2019-04-07
+AFG-001632;región E;Facturación;2019-04-07
+AFG-001428;región A;Falta Servicio;2019-04-07
+AFG-002330;región A;Falta Servicio;2019-08-04
+AFG-002045;región F;Falta Servicio;2019-08-04
+AFG-002030;región D;Falta Servicio;2019-08-04
+AFG-002888;región D;Facturación;2019-04-09
+AFG-002478;región A;Falta Servicio;2019-09-04
+AFG-000152;región C;Facturación;2019-04-09
+AFG-002525;región A;Facturación;2019-10-04
+AFG-001529;región E;Actualiza datos;2019-04-10
+AFG-001315;región F;Facturación;2019-04-10
+AFG-002038;región F;Facturación;2019-11-04
+AFG-001812;región E;No reconoce producto;2019-04-11
+AFG-001037;región D;Falta Servicio;2019-04-11
+AFG-003005;región C;No reconoce producto;2019-04-12
+AFG-002749;región E;Falta Servicio;2019-04-12
+AFG-000297;región D;Falta Servicio;2019-04-12
+AFG-002558;región C;Facturación;2019-04-13
+AFG-001440;región D;No reconoce producto;2019-04-13
+AFG-001216;región F;No reconoce producto;2019-04-13
+AFG-002512;región D;Facturación;2019-04-14
+AFG-000773;región A;Falta Servicio;2019-04-14
+AFG-000319;región B;Falta Servicio;2019-04-14
+AFG-002756;región D;No reconoce producto;2019-04-15
+AFG-001702;región B;Falta Servicio;2019-04-15
+AFG-000878;región A;Falta Servicio;2019-04-15
+AFG-002737;región E;No reconoce producto;2019-04-16
+AFG-002060;región D;Facturación;2019-04-16
+AFG-000250;región F;Actualiza datos;2019-04-16
+AFG-002892;región A;Instalación pendiente;2019-04-17
+AFG-002086;región D;Cambio de Producto;2019-04-17
+AFG-000883;región C;Facturación;2019-04-17
+AFG-002259;región D;Instalación pendiente;2019-04-18
+AFG-000365;región E;Facturación;2019-04-18
+AFG-000115;región B;Cambio de Producto;2019-04-18
+AFG-002765;región A;Falta Servicio;2019-04-19
+AFG-001324;región B;Cambio de Producto;2019-04-19
+AFG-001040;región E;Falta Servicio;2019-04-19
+AFG-002669;región E;Falta Servicio;2019-04-20
+AFG-001670;región A;Facturación;2019-04-20
+AFG-001455;región F;Facturación;2019-04-20
+AFG-003185;región C;Falta Servicio;2019-04-21
+AFG-003139;región A;Facturación;2019-04-21
+AFG-001535;región D;Falta Servicio;2019-04-21
+AFG-002805;región D;Falta Servicio;2019-04-22
+AFG-002495;región E;Falta Servicio;2019-04-22
+AFG-000852;región F;Facturación;2019-04-22
+AFG-003270;región E;Falta Servicio;2019-04-23
+AFG-001387;región B;Falta Servicio;2019-04-23
+AFG-000701;región D;Falta Servicio;2019-04-23
+AFG-002451;región B;Facturación;2019-04-24
+AFG-000493;región E;Falta Servicio;2019-04-24
+AFG-000185;región C;Falta Servicio;2019-04-24
+AFG-002154;región C;Falta Servicio;2019-04-25
+AFG-001147;región B;Facturación;2019-04-25
+AFG-000123;región A;Actualiza datos;2019-04-25
+AFG-000858;región D;Actualiza datos;2019-04-26
+AFG-000128;región E;Facturación;2019-04-26
+AFG-000064;región B;Cambio de Producto;2019-04-26
+AFG-002971;región D;Falta Servicio;2019-04-27
+AFG-000766;región E;Falta Servicio;2019-04-27
+AFG-000429;región B;Falta Servicio;2019-04-27
+AFG-003010;región A;Facturación;2019-04-28
+AFG-001911;región C;Instalación pendiente;2019-04-28
+AFG-000094;región D;Facturación;2019-04-28
+AFG-002750;región E;Facturación;2019-04-29
+AFG-002063;región B;Facturación;2019-04-29
+AFG-000538;región F;Falta Servicio;2019-04-29
+AFG-002922;región B;Facturación;2019-04-30
+AFG-002037;región A;No reconoce producto;2019-04-30
+AFG-000131;región F;Instalación pendiente;2019-04-30
+AFG-002464;región B;Facturación;2019-01-05
+AFG-001541;región D;Facturación;2019-05-01
+AFG-000170;región C;Facturación;2019-05-01
+AFG-002492;región A;Facturación;2019-02-05
+AFG-002287;región D;Facturación;2019-02-05
+AFG-000624;región E;Falta Servicio;2019-05-02
+AFG-002318;región C;Instalación pendiente;2019-03-05
+AFG-001222;región D;Actualiza datos;2019-05-03
+AFG-000360;región E;Instalación pendiente;2019-05-03
+AFG-003107;región C;Falta Servicio;2019-05-04
+AFG-001565;región E;Facturación;2019-05-04
+AFG-001254;región B;Facturación;2019-05-04
+AFG-001594;región D;Facturación;2019-05-05
+AFG-001575;región B;No reconoce producto;2019-05-05
+AFG-000985;región C;Instalación pendiente;2019-05-05
+AFG-002283;región E;Facturación;2019-06-05
+AFG-000557;región D;Falta Servicio;2019-05-06
+AFG-000347;región F;Falta Servicio;2019-05-06
+AFG-003008;región E;Facturación;2019-05-07
+AFG-002856;región C;Facturación;2019-05-07
+AFG-002141;región D;Falta Servicio;2019-07-05
+AFG-003012;región F;Facturación;2019-05-08
+AFG-001400;región A;Falta Servicio;2019-05-08
+AFG-001048;región E;Falta Servicio;2019-05-08
+AFG-000649;región E;Facturación;2019-05-09
+AFG-000525;región D;Actualiza datos;2019-05-09
+AFG-000241;región A;No reconoce producto;2019-05-09
+AFG-002860;región B;Falta Servicio;2019-05-10
+AFG-002126;región C;Facturación;2019-10-05
+AFG-001690;región A;Falta Servicio;2019-05-10
+AFG-002519;región C;Cambio de Producto;2019-11-05
+AFG-000855;región D;Facturación;2019-05-11
+AFG-000026;región B;Facturación;2019-05-11
+AFG-001543;región C;Facturación;2019-05-12
+AFG-001034;región F;Falta Servicio;2019-05-12
+AFG-000247;región B;Facturación;2019-05-12
+AFG-003224;región B;Instalación pendiente;2019-05-13
+AFG-001203;región E;Falta Servicio;2019-05-13
+AFG-000153;región D;Facturación;2019-05-13
+AFG-002642;región A;Facturación;2019-05-14
+AFG-002549;región F;Facturación;2019-05-14
+AFG-001361;región E;Falta Servicio;2019-05-14
+AFG-002965;región B;Falta Servicio;2019-05-15
+AFG-002832;región D;Actualiza datos;2019-05-15
+AFG-001844;región E;Cambio de Producto;2019-05-15
+AFG-003166;región C;Falta Servicio;2019-05-16
+AFG-003030;región F;Falta Servicio;2019-05-16
+AFG-001172;región E;Falta Servicio;2019-05-16
+AFG-002776;región B;Facturación;2019-05-17
+AFG-002739;región C;Facturación;2019-05-17
+AFG-001919;región F;Facturación;2019-05-17
+AFG-002708;región F;Actualiza datos;2019-05-18
+AFG-001999;región E;No reconoce producto;2019-05-18
+AFG-001313;región B;Facturación;2019-05-18
+AFG-002099;región E;Actualiza datos;2019-05-19
+AFG-000372;región F;Instalación pendiente;2019-05-19
+AFG-000202;región A;Falta Servicio;2019-05-19
+AFG-003303;región C;Facturación;2019-05-20
+AFG-002078;región F;Cambio de Producto;2019-05-20
+AFG-001655;región A;Facturación;2019-05-20
+AFG-002442;región C;Facturación;2019-05-21
+AFG-002315;región F;Falta Servicio;2019-05-21
+AFG-002130;región D;Falta Servicio;2019-05-21
+AFG-002760;región A;Facturación;2019-05-22
+AFG-002379;región D;Falta Servicio;2019-05-22
+AFG-000038;región F;Instalación pendiente;2019-05-22
+AFG-003259;región B;Cambio de Producto;2019-05-23
+AFG-002940;región D;Actualiza datos;2019-05-23
+AFG-002748;región C;Falta Servicio;2019-05-23
+AFG-003044;región B;Facturación;2019-05-24
+AFG-000913;región A;Cambio de Producto;2019-05-24
+AFG-000410;región E;Falta Servicio;2019-05-24
+AFG-002531;región F;Actualiza datos;2019-05-25
+AFG-002521;región C;Facturación;2019-05-25
+AFG-002058;región A;Facturación;2019-05-25
+AFG-000879;región C;No reconoce producto;2019-05-26
+AFG-000598;región B;Falta Servicio;2019-05-26
+AFG-000037;región D;Instalación pendiente;2019-05-26
+AFG-002611;región A;Facturación;2019-05-27
+AFG-001385;región C;Facturación;2019-05-27
+AFG-000190;región B;Actualiza datos;2019-05-27
+AFG-003197;región D;Falta Servicio;2019-05-28
+AFG-002312;región A;Facturación;2019-05-28
+AFG-000781;región E;Falta Servicio;2019-05-28
+AFG-002884;región D;Facturación;2019-05-29
+AFG-000630;región B;Falta Servicio;2019-05-29
+AFG-000628;región A;Instalación pendiente;2019-05-29
+AFG-003041;región E;Cambio de Producto;2019-05-30
+AFG-000359;región F;Falta Servicio;2019-05-30
+AFG-000035;región D;Cambio de Producto;2019-05-30
+AFG-002425;región A;Facturación;2019-05-31
+AFG-001650;región F;Actualiza datos;2019-05-31
+AFG-001394;región C;Falta Servicio;2019-05-31
+AFG-002894;región F;Instalación pendiente;2019-06-01
+AFG-002815;región A;No reconoce producto;2019-06-01
+AFG-001791;región B;Facturación;2019-06-01
+AFG-002151;región E;Facturación;2019-02-06
+AFG-002135;región F;Actualiza datos;2019-02-06
+AFG-002062;región B;Falta Servicio;2019-02-06
+AFG-002969;región B;Falta Servicio;2019-06-03
+AFG-001182;región E;Facturación;2019-06-03
+AFG-000095;región F;Instalación pendiente;2019-06-03
+AFG-003210;región B;Facturación;2019-06-04
+AFG-001767;región C;Falta Servicio;2019-06-04
+AFG-000135;región E;Actualiza datos;2019-06-04
+AFG-003282;región F;Falta Servicio;2019-06-05
+AFG-000234;región A;Falta Servicio;2019-06-05
+AFG-000027;región C;Facturación;2019-06-05
+AFG-003239;región A;Facturación;2019-06-06
+AFG-002992;región E;No reconoce producto;2019-06-06
+AFG-001729;región D;Falta Servicio;2019-06-06
+AFG-002269;región D;Facturación;2019-07-06
+AFG-001971;región E;Falta Servicio;2019-07-06
+AFG-001276;región F;Instalación pendiente;2019-06-07
+AFG-002299;región A;Facturación;2019-08-06
+AFG-002293;región E;Facturación;2019-08-06
+AFG-001619;región D;Facturación;2019-06-08
+AFG-001700;región F;Facturación;2019-06-09
+AFG-001609;región C;Falta Servicio;2019-06-09
+AFG-000057;región A;No reconoce producto;2019-06-09
+AFG-001905;región D;Facturación;2019-10-06
+AFG-001478;región E;Falta Servicio;2019-06-10
+AFG-000267;región C;Falta Servicio;2019-06-10
+AFG-003162;región D;Facturación;2019-06-11
+AFG-002270;región A;Facturación;2019-11-06
+AFG-000156;región E;Falta Servicio;2019-06-11
+AFG-002583;región C;Falta Servicio;2019-12-06
+AFG-001677;región D;Facturación;2019-06-12
+AFG-001130;región F;Instalación pendiente;2019-06-12
+AFG-002736;región C;Cambio de Producto;2019-06-13
+AFG-001612;región E;Falta Servicio;2019-06-13
+AFG-001128;región F;Falta Servicio;2019-06-13
+AFG-001327;región C;Facturación;2019-06-14
+AFG-000947;región A;Falta Servicio;2019-06-14
+AFG-000091;región F;Actualiza datos;2019-06-14
+AFG-002402;región A;Facturación;2019-06-15
+AFG-000996;región B;Facturación;2019-06-15
+AFG-000143;región F;Facturación;2019-06-15
+AFG-002649;región C;Facturación;2019-06-16
+AFG-002254;región D;Falta Servicio;2019-06-16
+AFG-000014;región B;Instalación pendiente;2019-06-16
+AFG-001644;región C;Facturación;2019-06-17
+AFG-000909;región B;Actualiza datos;2019-06-17
+AFG-000521;región D;Falta Servicio;2019-06-17
+AFG-002653;región D;Facturación;2019-06-18
+AFG-002198;región C;Falta Servicio;2019-06-18
+AFG-001530;región E;Facturación;2019-06-18
+AFG-002978;región D;Falta Servicio;2019-06-19
+AFG-002926;región F;Facturación;2019-06-19
+AFG-000678;región E;No reconoce producto;2019-06-19
+AFG-001820;región B;Actualiza datos;2019-06-20
+AFG-001220;región C;Facturación;2019-06-20
+AFG-000444;región F;Facturación;2019-06-20
+AFG-001089;región B;Instalación pendiente;2019-06-21
+AFG-000987;región F;Facturación;2019-06-21
+AFG-000341;región A;Falta Servicio;2019-06-21
+AFG-003065;región B;Instalación pendiente;2019-06-22
+AFG-002726;región A;Facturación;2019-06-22
+AFG-002163;región D;Falta Servicio;2019-06-22
+AFG-002847;región A;No reconoce producto;2019-06-23
+AFG-002415;región D;Falta Servicio;2019-06-23
+AFG-001470;región F;Facturación;2019-06-23
+AFG-002543;región D;Facturación;2019-06-24
+AFG-001747;región C;Facturación;2019-06-24
+AFG-001620;región E;No reconoce producto;2019-06-24
+AFG-002729;región C;Instalación pendiente;2019-06-25
+AFG-001853;región D;Cambio de Producto;2019-06-25
+AFG-000182;región E;Falta Servicio;2019-06-25
+AFG-001875;región C;Actualiza datos;2019-06-26
+AFG-001136;región F;Cambio de Producto;2019-06-26
+AFG-000785;región D;Facturación;2019-06-26
+AFG-003077;región B;Facturación;2019-06-27
+AFG-001144;región A;Falta Servicio;2019-06-27
+AFG-000986;región E;Actualiza datos;2019-06-27
+AFG-003055;región F;Falta Servicio;2019-06-28
+AFG-000639;región A;Actualiza datos;2019-06-28
+AFG-000169;región E;Facturación;2019-06-28
+AFG-003218;región C;Falta Servicio;2019-06-29
+AFG-002042;región D;Facturación;2019-06-29
+AFG-001940;región E;Falta Servicio;2019-06-29
+AFG-001822;región E;Falta Servicio;2019-06-30
+AFG-001258;región B;Falta Servicio;2019-06-30
+AFG-000061;región C;Falta Servicio;2019-06-30
+AFG-002316;región B;Actualiza datos;2019-01-07
+AFG-001907;región C;Facturación;2019-01-07
+AFG-001083;región D;No reconoce producto;2019-07-01
+AFG-002694;región D;Cambio de Producto;2019-07-02
+AFG-002508;región F;Cambio de Producto;2019-02-07
+AFG-001457;región C;Facturación;2019-07-02
+AFG-002659;región F;Instalación pendiente;2019-07-03
+AFG-001513;región E;Falta Servicio;2019-07-03
+AFG-000870;región D;Facturación;2019-07-03
+AFG-003275;región E;Facturación;2019-07-04
+AFG-000708;región C;No reconoce producto;2019-07-04
+AFG-000040;región D;Actualiza datos;2019-07-04
+AFG-002625;región B;Falta Servicio;2019-07-05
+AFG-002091;región F;Actualiza datos;2019-05-07
+AFG-001392;región C;Instalación pendiente;2019-07-05
+AFG-002784;región C;Facturación;2019-07-06
+AFG-002633;región E;No reconoce producto;2019-07-06
+AFG-002020;región D;Actualiza datos;2019-06-07
+AFG-003033;región C;Facturación;2019-07-07
+AFG-001465;región D;Facturación;2019-07-07
+AFG-000215;región A;Facturación;2019-07-07
+AFG-002313;región D;Instalación pendiente;2019-08-07
+AFG-001360;región C;Falta Servicio;2019-07-08
+AFG-001296;región B;Cambio de Producto;2019-07-08
+AFG-003045;región F;Actualiza datos;2019-07-09
+AFG-001302;región D;Falta Servicio;2019-07-09
+AFG-000824;región C;Facturación;2019-07-09
+AFG-002092;región E;Falta Servicio;2019-10-07
+AFG-001871;región D;No reconoce producto;2019-07-10
+AFG-000656;región F;Falta Servicio;2019-07-10
+AFG-003203;región B;Facturación;2019-07-11
+AFG-002682;región D;Falta Servicio;2019-07-11
+AFG-001425;región C;Falta Servicio;2019-07-11
+AFG-000723;región D;Falta Servicio;2019-07-12
+AFG-000556;región B;Facturación;2019-07-12
+AFG-000523;región C;Facturación;2019-07-12
+AFG-002079;región D;Falta Servicio;2019-07-13
+AFG-000412;región A;Actualiza datos;2019-07-13
+AFG-000024;región E;Falta Servicio;2019-07-13
+AFG-003003;región E;Facturación;2019-07-14
+AFG-002946;región B;Falta Servicio;2019-07-14
+AFG-001288;región D;Falta Servicio;2019-07-14
+AFG-002365;región E;Falta Servicio;2019-07-15
+AFG-001593;región D;Cambio de Producto;2019-07-15
+AFG-000500;región C;No reconoce producto;2019-07-15
+AFG-002890;región E;Instalación pendiente;2019-07-16
+AFG-002818;región F;Actualiza datos;2019-07-16
+AFG-002661;región A;Falta Servicio;2019-07-16
+AFG-002538;región C;Facturación;2019-07-17
+AFG-001987;región D;Falta Servicio;2019-07-17
+AFG-000055;región B;Facturación;2019-07-17
+AFG-003132;región E;Falta Servicio;2019-07-18
+AFG-003048;región A;Falta Servicio;2019-07-18
+AFG-000738;región F;Actualiza datos;2019-07-18
+AFG-002840;región F;Facturación;2019-07-19
+AFG-002674;región D;Falta Servicio;2019-07-19
+AFG-001466;región A;Actualiza datos;2019-07-19
+AFG-002801;región D;Falta Servicio;2019-07-20
+AFG-001407;región B;Facturación;2019-07-20
+AFG-001356;región E;Actualiza datos;2019-07-20
+AFG-003116;región A;Falta Servicio;2019-07-21
+AFG-002295;región C;No reconoce producto;2019-07-21
+AFG-001816;región D;No reconoce producto;2019-07-21
+AFG-003300;región B;Falta Servicio;2019-07-22
+AFG-001494;región F;Falta Servicio;2019-07-22
+AFG-000882;región E;Instalación pendiente;2019-07-22
+AFG-003171;región D;Falta Servicio;2019-07-23
+AFG-002544;región C;Facturación;2019-07-23
+AFG-002394;región E;Falta Servicio;2019-07-23
+AFG-001133;región C;Falta Servicio;2019-07-24
+AFG-000401;región D;Instalación pendiente;2019-07-24
+AFG-000033;región E;No reconoce producto;2019-07-24
+AFG-003142;región A;Facturación;2019-07-25
+AFG-002824;región D;Instalación pendiente;2019-07-25
+AFG-000207;región C;Cambio de Producto;2019-07-25
+AFG-002691;región C;Facturación;2019-07-26
+AFG-002687;región F;Falta Servicio;2019-07-26
+AFG-000122;región B;Actualiza datos;2019-07-26
+AFG-002877;región E;Falta Servicio;2019-07-27
+AFG-001190;región D;Facturación;2019-07-27
+AFG-000613;región C;Cambio de Producto;2019-07-27
+AFG-002181;región B;Cambio de Producto;2019-07-28
+AFG-001382;región C;Falta Servicio;2019-07-28
+AFG-000941;región F;Facturación;2019-07-28
+AFG-002276;región E;Facturación;2019-07-29
+AFG-001353;región F;Facturación;2019-07-29
+AFG-001157;región D;Instalación pendiente;2019-07-29
+AFG-003074;región D;Falta Servicio;2019-07-30
+AFG-002374;región C;Falta Servicio;2019-07-30
+AFG-000876;región B;Falta Servicio;2019-07-30
+AFG-003064;región F;Facturación;2019-07-31
+AFG-002505;región A;Falta Servicio;2019-07-31
+AFG-001523;región D;Falta Servicio;2019-07-31
+AFG-003294;región D;Facturación;2019-08-01
+AFG-001234;región B;Facturación;2019-08-01
+AFG-000073;región A;Falta Servicio;2019-08-01
+AFG-002944;región F;Falta Servicio;2019-08-02
+AFG-002939;región E;Falta Servicio;2019-08-02
+AFG-000918;región A;Falta Servicio;2019-08-02
+AFG-002934;región A;Falta Servicio;2019-08-03
+AFG-002515;región D;Facturación;2019-03-08
+AFG-000536;región E;Falta Servicio;2019-08-03
+AFG-003211;región A;Falta Servicio;2019-08-04
+AFG-001549;región F;Falta Servicio;2019-08-04
+AFG-000839;región E;Falta Servicio;2019-08-04
+AFG-003233;región C;Falta Servicio;2019-08-05
+AFG-002596;región B;Falta Servicio;2019-05-08
+AFG-000058;región D;No reconoce producto;2019-08-05
+AFG-002712;región A;Facturación;2019-08-06
+AFG-002383;región F;Falta Servicio;2019-06-08
+AFG-001698;región E;Facturación;2019-08-06
+AFG-003250;región A;Facturación;2019-08-07
+AFG-001876;región C;Facturación;2019-08-07
+AFG-001191;región B;Falta Servicio;2019-08-07
+AFG-001389;región F;Facturación;2019-08-08
+AFG-000920;región C;Facturación;2019-08-08
+AFG-000583;región A;Cambio de Producto;2019-08-08
+AFG-003104;región B;Facturación;2019-08-09
+AFG-000770;región C;Falta Servicio;2019-08-09
+AFG-000015;región F;No reconoce producto;2019-08-09
+AFG-001756;región F;Facturación;2019-08-10
+AFG-001613;región A;Falta Servicio;2019-08-10
+AFG-001528;región B;Facturación;2019-08-10
+AFG-002807;región D;Actualiza datos;2019-08-11
+AFG-000577;región F;Cambio de Producto;2019-08-11
+AFG-000564;región E;Falta Servicio;2019-08-11
+AFG-002831;región B;Facturación;2019-08-12
+AFG-002249;región C;No reconoce producto;2019-12-08
+AFG-002230;región A;Falta Servicio;2019-12-08
+AFG-002190;región C;Falta Servicio;2019-08-13
+AFG-002044;región D;Falta Servicio;2019-08-13
+AFG-000177;región E;Falta Servicio;2019-08-13
+AFG-002599;región A;Falta Servicio;2019-08-14
+AFG-001939;región F;Instalación pendiente;2019-08-14
+AFG-001660;región B;Facturación;2019-08-14
+AFG-002704;región D;No reconoce producto;2019-08-15
+AFG-001538;región A;Facturación;2019-08-15
+AFG-001359;región F;Facturación;2019-08-15
+AFG-002328;región D;Actualiza datos;2019-08-16
+AFG-002090;región B;Facturación;2019-08-16
+AFG-000375;región E;Falta Servicio;2019-08-16
+AFG-002207;región A;Cambio de Producto;2019-08-17
+AFG-001668;región F;Instalación pendiente;2019-08-17
+AFG-001291;región B;Falta Servicio;2019-08-17
+AFG-002329;región A;Falta Servicio;2019-08-18
+AFG-001800;región E;Facturación;2019-08-18
+AFG-000994;región F;Falta Servicio;2019-08-18
+AFG-003201;región E;Facturación;2019-08-19
+AFG-003176;región C;Cambio de Producto;2019-08-19
+AFG-001715;región D;Falta Servicio;2019-08-19
+AFG-001938;región D;Falta Servicio;2019-08-20
+AFG-000842;región C;Falta Servicio;2019-08-20
+AFG-000306;región B;Actualiza datos;2019-08-20
+AFG-002094;región E;Falta Servicio;2019-08-21
+AFG-001085;región D;No reconoce producto;2019-08-21
+AFG-000936;región F;Cambio de Producto;2019-08-21
+AFG-002076;región A;Facturación;2019-08-22
+AFG-001794;región B;Falta Servicio;2019-08-22
+AFG-001495;región C;Instalación pendiente;2019-08-22
+AFG-001692;región A;Facturación;2019-08-23
+AFG-001137;región F;Cambio de Producto;2019-08-23
+AFG-000905;región E;Falta Servicio;2019-08-23
+AFG-003251;región E;Falta Servicio;2019-08-24
+AFG-001948;región F;Falta Servicio;2019-08-24
+AFG-000670;región A;Facturación;2019-08-24
+AFG-002503;región A;Actualiza datos;2019-08-25
+AFG-000642;región D;Cambio de Producto;2019-08-25
+AFG-000261;región C;Facturación;2019-08-25
+AFG-003040;región A;Falta Servicio;2019-08-26
+AFG-002998;región E;Facturación;2019-08-26
+AFG-001099;región D;Falta Servicio;2019-08-26
+AFG-001696;región A;Facturación;2019-08-27
+AFG-001666;región F;Actualiza datos;2019-08-27
+AFG-000793;región E;Falta Servicio;2019-08-27
+AFG-002839;región D;Facturación;2019-08-28
+AFG-001413;región E;Facturación;2019-08-28
+AFG-000542;región F;Facturación;2019-08-28
+AFG-001286;región F;Facturación;2019-08-29
+AFG-001257;región D;No reconoce producto;2019-08-29
+AFG-000801;región E;Facturación;2019-08-29
+AFG-003208;región C;Falta Servicio;2019-08-30
+AFG-002528;región B;Falta Servicio;2019-08-30
+AFG-000028;región E;Facturación;2019-08-30
+AFG-002658;región E;Facturación;2019-08-31
+AFG-002225;región F;Facturación;2019-08-31
+AFG-001393;región A;Facturación;2019-08-31
+AFG-001840;región F;Instalación pendiente;2019-09-01
+AFG-000783;región D;Falta Servicio;2019-09-01
+AFG-000228;región C;No reconoce producto;2019-09-01
+AFG-002487;región B;Falta Servicio;2019-02-09
+AFG-000831;región A;Falta Servicio;2019-09-02
+AFG-000591;región F;Facturación;2019-09-02
+AFG-002196;región E;Facturación;2019-03-09
+AFG-000817;región F;Facturación;2019-09-03
+AFG-000178;región A;Facturación;2019-09-03
+AFG-002384;región F;Facturación;2019-04-09
+AFG-002368;región D;Facturación;2019-04-09
+AFG-001098;región E;Falta Servicio;2019-09-04
+AFG-002263;región B;Facturación;2019-05-09
+AFG-001900;región E;Instalación pendiente;2019-05-09
+AFG-001870;región C;Facturación;2019-09-05
+AFG-002637;región F;Cambio de Producto;2019-09-06
+AFG-002510;región E;Actualiza datos;2019-06-09
+AFG-001109;región A;Falta Servicio;2019-09-06
+AFG-002912;región D;Facturación;2019-09-07
+AFG-002448;región B;Instalación pendiente;2019-07-09
+AFG-002273;región A;No reconoce producto;2019-07-09
+AFG-003119;región E;Cambio de Producto;2019-09-08
+AFG-001576;región D;Facturación;2019-09-08
+AFG-000413;región A;Falta Servicio;2019-09-08
+AFG-003261;región E;Facturación;2019-09-09
+AFG-002719;región A;Falta Servicio;2019-09-09
+AFG-000023;región B;Facturación;2019-09-09
+AFG-002176;región A;Falta Servicio;2019-10-09
+AFG-002160;región C;Facturación;2019-10-09
+AFG-001699;región F;Falta Servicio;2019-09-10
+AFG-002991;región F;Cambio de Producto;2019-09-11
+AFG-001041;región E;Actualiza datos;2019-09-11
+AFG-000492;región D;Cambio de Producto;2019-09-11
+AFG-002272;región B;Falta Servicio;2019-12-09
+AFG-001488;región A;Cambio de Producto;2019-09-12
+AFG-000596;región D;Cambio de Producto;2019-09-12
+AFG-002772;región C;Facturación;2019-09-13
+AFG-001038;región B;Cambio de Producto;2019-09-13
+AFG-000545;región E;Facturación;2019-09-13
+AFG-003095;región A;Instalación pendiente;2019-09-14
+AFG-000816;región B;Facturación;2019-09-14
+AFG-000059;región F;Facturación;2019-09-14
+AFG-002077;región E;Cambio de Producto;2019-09-15
+AFG-001269;región C;Falta Servicio;2019-09-15
+AFG-000498;región D;Falta Servicio;2019-09-15
+AFG-002275;región D;Facturación;2019-09-16
+AFG-000963;región C;Falta Servicio;2019-09-16
+AFG-000950;región B;No reconoce producto;2019-09-16
+AFG-003137;región E;Instalación pendiente;2019-09-17
+AFG-003127;región A;Facturación;2019-09-17
+AFG-002900;región F;Cambio de Producto;2019-09-17
+AFG-003272;región E;Cambio de Producto;2019-09-18
+AFG-002466;región A;Falta Servicio;2019-09-18
+AFG-002427;región B;Cambio de Producto;2019-09-18
+AFG-001511;región D;Cambio de Producto;2019-09-19
+AFG-000515;región C;Facturación;2019-09-19
+AFG-000379;región F;Facturación;2019-09-19
+AFG-001231;región A;Falta Servicio;2019-09-20
+AFG-000729;región E;Facturación;2019-09-20
+AFG-000720;región F;Facturación;2019-09-20
+AFG-001462;región B;Falta Servicio;2019-09-21
+AFG-000838;región C;Falta Servicio;2019-09-21
+AFG-000296;región A;Facturación;2019-09-21
+AFG-003024;región F;Instalación pendiente;2019-09-22
+AFG-001879;región A;Facturación;2019-09-22
+AFG-001390;región D;Falta Servicio;2019-09-22
+AFG-003182;región F;Instalación pendiente;2019-09-23
+AFG-001581;región C;Falta Servicio;2019-09-23
+AFG-001345;región E;Falta Servicio;2019-09-23
+AFG-003034;región B;Falta Servicio;2019-09-24
+AFG-001649;región A;Falta Servicio;2019-09-24
+AFG-001022;región E;Facturación;2019-09-24
+AFG-003016;región B;Falta Servicio;2019-09-25
+AFG-002622;región F;Instalación pendiente;2019-09-25
+AFG-001915;región C;Facturación;2019-09-25
+AFG-000771;región C;Cambio de Producto;2019-09-26
+AFG-000699;región A;Cambio de Producto;2019-09-26
+AFG-000007;región F;No reconoce producto;2019-09-26
+AFG-002816;región A;Facturación;2019-09-27
+AFG-002381;región F;Facturación;2019-09-27
+AFG-000938;región E;No reconoce producto;2019-09-27
+AFG-003154;región C;Falta Servicio;2019-09-28
+AFG-002537;región E;No reconoce producto;2019-09-28
+AFG-000552;región B;Facturación;2019-09-28
+AFG-000792;región C;Facturación;2019-09-29
+AFG-000553;región B;Facturación;2019-09-29
+AFG-000223;región D;Falta Servicio;2019-09-29
+AFG-002116;región F;Facturación;2019-09-30
+AFG-002084;región C;Facturación;2019-09-30
+AFG-000292;región D;Falta Servicio;2019-09-30
+AFG-003082;región D;Facturación;2019-10-01
+AFG-001369;región C;Facturación;2019-10-01
+AFG-000558;región F;Facturación;2019-10-01
+AFG-002981;región B;Facturación;2019-10-02
+AFG-002928;región F;Facturación;2019-10-02
+AFG-002579;región A;Facturación;2019-02-10
+AFG-003100;región C;No reconoce producto;2019-10-03
+AFG-001595;región A;Cambio de Producto;2019-10-03
+AFG-001439;región B;Facturación;2019-10-03
+AFG-002546;región A;Facturación;2019-04-10
+AFG-001823;región B;Facturación;2019-10-04
+AFG-000071;región F;Facturación;2019-10-04
+AFG-002852;región B;No reconoce producto;2019-10-05
+AFG-002462;región E;Falta Servicio;2019-05-10
+AFG-000113;región F;Facturación;2019-10-05
+AFG-002657;región B;Falta Servicio;2019-10-06
+AFG-002393;región C;No reconoce producto;2019-06-10
+AFG-000748;región A;Falta Servicio;2019-10-06
+AFG-003031;región E;Facturación;2019-10-07
+AFG-001437;región A;Facturación;2019-10-07
+AFG-000457;región F;Falta Servicio;2019-10-07
+AFG-002751;región A;Facturación;2019-10-08
+AFG-002526;región D;Falta Servicio;2019-08-10
+AFG-001443;región B;Facturación;2019-10-08
+AFG-002838;región D;Facturación;2019-10-09
+AFG-000522;región C;Falta Servicio;2019-10-09
+AFG-000255;región E;Facturación;2019-10-09
+AFG-001782;región F;Actualiza datos;2019-10-10
+AFG-001754;región C;Facturación;2019-10-10
+AFG-001084;región B;Falta Servicio;2019-10-10
+AFG-002744;región B;Facturación;2019-10-11
+AFG-002286;región E;Actualiza datos;2019-11-10
+AFG-000843;región A;Facturación;2019-10-11
+AFG-003265;región A;Facturación;2019-10-12
+AFG-001347;región C;Instalación pendiente;2019-10-12
+AFG-000342;región F;No reconoce producto;2019-10-12
+AFG-002010;región B;Falta Servicio;2019-10-13
+AFG-001642;región C;Falta Servicio;2019-10-13
+AFG-000200;región A;Falta Servicio;2019-10-13
+AFG-002780;región F;Facturación;2019-10-14
+AFG-001153;región E;Falta Servicio;2019-10-14
+AFG-000021;región D;Falta Servicio;2019-10-14
+AFG-002977;región F;Facturación;2019-10-15
+AFG-002103;región E;Falta Servicio;2019-10-15
+AFG-001002;región B;Cambio de Producto;2019-10-15
+AFG-002844;región E;Falta Servicio;2019-10-16
+AFG-001124;región D;Facturación;2019-10-16
+AFG-000355;región A;Falta Servicio;2019-10-16
+AFG-003175;región E;Falta Servicio;2019-10-17
+AFG-001232;región D;Falta Servicio;2019-10-17
+AFG-000660;región B;No reconoce producto;2019-10-17
+AFG-002885;región D;Falta Servicio;2019-10-18
+AFG-002606;región C;No reconoce producto;2019-10-18
+AFG-002281;región B;Facturación;2019-10-18
+AFG-003207;región E;Falta Servicio;2019-10-19
+AFG-002648;región F;Actualiza datos;2019-10-19
+AFG-001760;región A;Falta Servicio;2019-10-19
+AFG-001678;región D;Falta Servicio;2019-10-20
+AFG-001561;región B;Falta Servicio;2019-10-20
+AFG-001079;región A;Falta Servicio;2019-10-20
+AFG-002823;región A;Falta Servicio;2019-10-21
+AFG-001949;región D;Falta Servicio;2019-10-21
+AFG-000537;región C;Facturación;2019-10-21
+AFG-000930;región E;Actualiza datos;2019-10-22
+AFG-000907;región A;Falta Servicio;2019-10-22
+AFG-000030;región B;Facturación;2019-10-22
+AFG-001261;región C;Instalación pendiente;2019-10-23
+AFG-001255;región D;No reconoce producto;2019-10-23
+AFG-000459;región F;Instalación pendiente;2019-10-23
+AFG-003138;región C;Facturación;2019-10-24
+AFG-001188;región B;Actualiza datos;2019-10-24
+AFG-000571;región D;Instalación pendiente;2019-10-24
+AFG-003143;región B;Facturación;2019-10-25
+AFG-002643;región A;Falta Servicio;2019-10-25
+AFG-001262;región F;Facturación;2019-10-25
+AFG-002791;región C;Falta Servicio;2019-10-26
+AFG-002072;región A;Actualiza datos;2019-10-26
+AFG-001997;región D;Facturación;2019-10-26
+AFG-003271;región A;Facturación;2019-10-27
+AFG-001284;región E;Instalación pendiente;2019-10-27
+AFG-000294;región F;Actualiza datos;2019-10-27
+AFG-003038;región F;Facturación;2019-10-28
+AFG-002693;región A;Facturación;2019-10-28
+AFG-001499;región B;Facturación;2019-10-28
+AFG-002183;región F;Facturación;2019-10-29
+AFG-002041;región B;Falta Servicio;2019-10-29
+AFG-001383;región A;Falta Servicio;2019-10-29
+AFG-000733;región D;Falta Servicio;2019-10-30
+AFG-000623;región B;Falta Servicio;2019-10-30
+AFG-000323;región C;Facturación;2019-10-30
+AFG-001459;región A;Falta Servicio;2019-10-31
+AFG-001080;región B;Falta Servicio;2019-10-31
+AFG-000313;región D;Falta Servicio;2019-10-31
+AFG-001874;región A;Actualiza datos;2019-11-01
+AFG-000339;región F;Facturación;2019-11-01
+AFG-000031;región B;No reconoce producto;2019-11-01
+AFG-003298;región E;Falta Servicio;2019-11-02
+AFG-003020;región C;Instalación pendiente;2019-11-02
+AFG-002217;región D;Facturación;2019-02-11
+AFG-002355;región D;Facturación;2019-03-11
+AFG-002145;región E;No reconoce producto;2019-03-11
+AFG-000703;región C;Falta Servicio;2019-11-03
+AFG-001110;región B;Falta Servicio;2019-11-04
+AFG-000586;región E;No reconoce producto;2019-11-04
+AFG-000512;región F;Actualiza datos;2019-11-04
+AFG-002150;región E;Actualiza datos;2019-05-11
+AFG-002142;región C;Facturación;2019-05-11
+AFG-000221;región B;Falta Servicio;2019-11-05
+AFG-002716;región E;Falta Servicio;2019-11-06
+AFG-001636;región D;No reconoce producto;2019-11-06
+AFG-001532;región A;Facturación;2019-11-06
+AFG-002834;región D;No reconoce producto;2019-11-07
+AFG-000345;región E;Facturación;2019-11-07
+AFG-000238;región F;Falta Servicio;2019-11-07
+AFG-001898;región E;Falta Servicio;2019-08-11
+AFG-001713;región C;Falta Servicio;2019-11-08
+AFG-000798;región D;Falta Servicio;2019-11-08
+AFG-001045;región B;Falta Servicio;2019-11-09
+AFG-000327;región F;Falta Servicio;2019-11-09
+AFG-000066;región A;Falta Servicio;2019-11-09
+AFG-002419;región A;Facturación;2019-10-11
+AFG-001861;región C;Falta Servicio;2019-11-10
+AFG-001703;región B;Facturación;2019-11-10
+AFG-002468;región A;Falta Servicio;2019-11-11
+AFG-001640;región E;Falta Servicio;2019-11-11
+AFG-000657;región B;Instalación pendiente;2019-11-11
+AFG-003155;región A;Falta Servicio;2019-11-12
+AFG-002918;región E;Falta Servicio;2019-11-12
+AFG-002409;región D;Falta Servicio;2019-12-11
+AFG-003006;región F;Facturación;2019-11-13
+AFG-001695;región D;Instalación pendiente;2019-11-13
+AFG-001170;región C;Facturación;2019-11-13
+AFG-001057;región A;Falta Servicio;2019-11-14
+AFG-000150;región D;Falta Servicio;2019-11-14
+AFG-000036;región C;Facturación;2019-11-14
+AFG-002580;región D;Actualiza datos;2019-11-15
+AFG-000454;región E;Instalación pendiente;2019-11-15
+AFG-000048;región F;Falta Servicio;2019-11-15
+AFG-003227;región E;Facturación;2019-11-16
+AFG-001807;región D;Actualiza datos;2019-11-16
+AFG-001293;región F;Falta Servicio;2019-11-16
+AFG-002620;región A;Falta Servicio;2019-11-17
+AFG-002545;región D;Falta Servicio;2019-11-17
+AFG-000020;región C;Facturación;2019-11-17
+AFG-002215;región C;Facturación;2019-11-18
+AFG-001404;región E;Falta Servicio;2019-11-18
+AFG-000975;región B;Falta Servicio;2019-11-18
+AFG-001306;región B;Falta Servicio;2019-11-19
+AFG-001285;región C;Facturación;2019-11-19
+AFG-000896;región D;Facturación;2019-11-19
+AFG-003157;región C;Facturación;2019-11-20
+AFG-002372;región A;Cambio de Producto;2019-11-20
+AFG-001303;región B;Falta Servicio;2019-11-20
+AFG-003089;región E;Facturación;2019-11-21
+AFG-000235;región D;Falta Servicio;2019-11-21
+AFG-000003;región A;Falta Servicio;2019-11-21
+AFG-001766;región F;Falta Servicio;2019-11-22
+AFG-000911;región E;Actualiza datos;2019-11-22
+AFG-000157;región D;Facturación;2019-11-22
+AFG-001256;región F;Falta Servicio;2019-11-23
+AFG-001092;región A;Actualiza datos;2019-11-23
+AFG-000633;región C;Falta Servicio;2019-11-23
+AFG-001607;región A;Falta Servicio;2019-11-24
+AFG-000445;región B;Facturación;2019-11-24
+AFG-000067;región E;No reconoce producto;2019-11-24
+AFG-002974;región C;Falta Servicio;2019-11-25
+AFG-000620;región B;Actualiza datos;2019-11-25
+AFG-000361;región A;Facturación;2019-11-25
+AFG-002799;región A;Falta Servicio;2019-11-26
+AFG-000460;región B;Falta Servicio;2019-11-26
+AFG-000225;región E;Facturación;2019-11-26
+AFG-001890;región A;Cambio de Producto;2019-11-27
+AFG-001721;región C;Actualiza datos;2019-11-27
+AFG-001134;región B;Facturación;2019-11-27
+AFG-002199;región B;Falta Servicio;2019-11-28
+AFG-002071;región F;Falta Servicio;2019-11-28
+AFG-000121;región E;Instalación pendiente;2019-11-28
+AFG-003178;región C;Cambio de Producto;2019-11-29
+AFG-002985;región F;Facturación;2019-11-29
+AFG-002064;región E;No reconoce producto;2019-11-29
+AFG-002634;región B;Facturación;2019-11-30
+AFG-001658;región F;Facturación;2019-11-30
+AFG-000335;región E;Falta Servicio;2019-11-30
+AFG-001798;región B;Facturación;2019-12-01
+AFG-000840;región C;Cambio de Producto;2019-12-01
+AFG-000245;región E;Instalación pendiente;2019-12-01
+AFG-002455;región B;Falta Servicio;2019-02-12
+AFG-001982;región C;Falta Servicio;2019-02-12
+AFG-001972;región D;Cambio de Producto;2019-02-12
+AFG-002569;región A;Instalación pendiente;2019-03-12
+AFG-002488;región D;Cambio de Producto;2019-03-12
+AFG-000103;región F;Cambio de Producto;2019-12-03
+AFG-003252;región C;Instalación pendiente;2019-12-04
+AFG-002133;región A;No reconoce producto;2019-04-12
+AFG-001230;región B;Falta Servicio;2019-12-04
+AFG-001458;región A;Facturación;2019-12-05
+AFG-000768;región D;Instalación pendiente;2019-12-05
+AFG-000266;región B;Falta Servicio;2019-12-05
+AFG-002421;región B;Facturación;2019-06-12
+AFG-001330;región A;Facturación;2019-12-06
+AFG-000060;región F;Instalación pendiente;2019-12-06
+AFG-002917;región E;No reconoce producto;2019-12-07
+AFG-001010;región C;Facturación;2019-12-07
+AFG-000864;región F;Facturación;2019-12-07
+AFG-003144;región C;Cambio de Producto;2019-12-08
+AFG-002603;región F;Facturación;2019-08-12
+AFG-000242;región B;Actualiza datos;2019-12-08
+AFG-001963;región F;Falta Servicio;2019-09-12
+AFG-001937;región E;Falta Servicio;2019-09-12
+AFG-001673;región B;Falta Servicio;2019-12-09
+AFG-002821;región B;Falta Servicio;2019-12-10
+AFG-002016;región D;Falta Servicio;2019-10-12
+AFG-001410;región C;Cambio de Producto;2019-12-10
+AFG-002979;región E;Falta Servicio;2019-12-11
+AFG-002391;región D;Falta Servicio;2019-11-12
+AFG-001500;región F;No reconoce producto;2019-12-11
+AFG-001166;región D;Instalación pendiente;2019-12-12
+AFG-000807;región C;Instalación pendiente;2019-12-12
+AFG-000026;región A;Facturación;2019-12-12
+AFG-001335;región D;Falta Servicio;2019-12-13
+AFG-000979;región F;Falta Servicio;2019-12-13
+AFG-000172;región E;Falta Servicio;2019-12-13
+AFG-001339;región F;Facturación;2019-12-14
+AFG-001250;región C;Falta Servicio;2019-12-14
+AFG-000700;región A;Cambio de Producto;2019-12-14
+AFG-001625;región B;Facturación;2019-12-15
+AFG-001475;región E;Actualiza datos;2019-12-15
+AFG-000740;región C;Falta Servicio;2019-12-15
+AFG-002895;región A;Facturación;2019-12-16
+AFG-000667;región C;Facturación;2019-12-16
+AFG-000124;región D;Falta Servicio;2019-12-16
+AFG-002026;región B;Facturación;2019-12-17
+AFG-001968;región A;Falta Servicio;2019-12-17
+AFG-001967;región E;Falta Servicio;2019-12-17
+AFG-002228;región D;Actualiza datos;2019-12-18
+AFG-000258;región C;No reconoce producto;2019-12-18
+AFG-000079;región F;Facturación;2019-12-18
+AFG-003159;región F;Cambio de Producto;2019-12-19
+AFG-003022;región A;Cambio de Producto;2019-12-19
+AFG-001122;región E;Falta Servicio;2019-12-19
+AFG-001849;región A;Facturación;2019-12-20
+AFG-001036;región D;Facturación;2019-12-20
+AFG-000277;región E;Falta Servicio;2019-12-20
+AFG-002786;región A;Falta Servicio;2019-12-21
+AFG-002035;región B;No reconoce producto;2019-12-21
+AFG-000076;región F;Facturación;2019-12-21
+AFG-002609;región C;Falta Servicio;2019-12-22
+AFG-001096;región B;Falta Servicio;2019-12-22
+AFG-000970;región F;Falta Servicio;2019-12-22
+AFG-001280;región A;Instalación pendiente;2019-12-23
+AFG-000569;región B;Actualiza datos;2019-12-23
+AFG-000430;región E;Falta Servicio;2019-12-23
+AFG-002406;región B;Facturación;2019-12-24
+AFG-001618;región F;Facturación;2019-12-24
+AFG-000205;región C;Falta Servicio;2019-12-24
+AFG-002532;región F;Facturación;2019-12-25
+AFG-002520;región A;Facturación;2019-12-25
+AFG-000533;región E;Facturación;2019-12-25
+AFG-002949;región B;Instalación pendiente;2019-12-26
+AFG-000269;región C;Cambio de Producto;2019-12-26
+AFG-000226;región A;Falta Servicio;2019-12-26
+AFG-003135;región C;Facturación;2019-12-27
+AFG-001029;región F;Facturación;2019-12-27
+AFG-000340;región E;Cambio de Producto;2019-12-27
+AFG-001402;región A;Facturación;2019-12-28
+AFG-000468;región D;Falta Servicio;2019-12-28
+AFG-000249;región E;Falta Servicio;2019-12-28
+AFG-002232;región E;Falta Servicio;2019-12-29
+AFG-002052;región C;Falta Servicio;2019-12-29
+AFG-000483;región D;Falta Servicio;2019-12-29
+AFG-002587;región D;Actualiza datos;2019-12-30
+AFG-000835;región B;Facturación;2019-12-30
+AFG-000543;región C;Facturación;2019-12-30
+AFG-002500;región D;Facturación;2019-12-31
+AFG-002169;región A;No reconoce producto;2019-12-31
+AFG-001805;región F;Facturación;2019-12-31
+AFG-001857;región E;Falta Servicio;2020-01-01
+AFG-001371;región C;Falta Servicio;2020-01-01
+AFG-000443;región B;Falta Servicio;2020-01-01
+AFG-003072;región A;Cambio de Producto;2020-01-02
+AFG-001504;región F;Actualiza datos;2020-01-02
+AFG-001003;región B;Instalación pendiente;2020-01-02
+AFG-003274;región F;Instalación pendiente;2020-01-03
+AFG-002204;región B;Cambio de Producto;2020-03-01
+AFG-000477;región A;Facturación;2020-01-03
+AFG-002593;región F;No reconoce producto;2020-04-01
+AFG-002343;región A;No reconoce producto;2020-04-01
+AFG-001728;región B;Facturación;2020-01-04
+AFG-001509;región B;Falta Servicio;2020-01-05
+AFG-000900;región C;Facturación;2020-01-05
+AFG-000615;región D;Actualiza datos;2020-01-05
+AFG-003133;región D;Cambio de Producto;2020-01-06
+AFG-001775;región B;Cambio de Producto;2020-01-06
+AFG-000019;región C;Facturación;2020-01-06
+AFG-001790;región C;No reconoce producto;2020-01-07
+AFG-000134;región F;Falta Servicio;2020-01-07
+AFG-000018;región B;Facturación;2020-01-07
+AFG-003009;región E;Instalación pendiente;2020-01-08
+AFG-000847;región C;Instalación pendiente;2020-01-08
+AFG-000086;región F;Falta Servicio;2020-01-08
+AFG-003202;región E;Falta Servicio;2020-01-09
+AFG-003126;región B;Falta Servicio;2020-01-09
+AFG-003081;región C;Cambio de Producto;2020-01-09
+AFG-002930;región B;Falta Servicio;2020-01-10
+AFG-001135;región A;Facturación;2020-01-10
+AFG-000378;región F;Falta Servicio;2020-01-10
+AFG-003179;región D;Cambio de Producto;2020-01-11
+AFG-002728;región C;Falta Servicio;2020-01-11
+AFG-000480;región B;Falta Servicio;2020-01-11
+AFG-002336;región C;Falta Servicio;2020-12-01
+AFG-002236;región E;Facturación;2020-12-01
+AFG-001205;región D;Falta Servicio;2020-01-12
+AFG-001014;región C;Facturación;2020-01-13
+AFG-000980;región E;Falta Servicio;2020-01-13
+AFG-000053;región B;Cambio de Producto;2020-01-13
+AFG-002635;región B;Actualiza datos;2020-01-14
+AFG-002439;región A;Actualiza datos;2020-01-14
+AFG-001974;región F;No reconoce producto;2020-01-14
+AFG-001456;región E;No reconoce producto;2020-01-15
+AFG-000803;región B;Facturación;2020-01-15
+AFG-000640;región A;Facturación;2020-01-15
+AFG-003026;región C;Falta Servicio;2020-01-16
+AFG-002407;región B;Facturación;2020-01-16
+AFG-000962;región D;Falta Servicio;2020-01-16
+AFG-002171;región E;Falta Servicio;2020-01-17
+AFG-001932;región F;Instalación pendiente;2020-01-17
+AFG-001503;región A;Falta Servicio;2020-01-17
+AFG-003277;región D;Actualiza datos;2020-01-18
+AFG-001175;región A;Facturación;2020-01-18
+AFG-000193;región F;Falta Servicio;2020-01-18
